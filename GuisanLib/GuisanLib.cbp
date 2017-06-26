@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="GuisanLib" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/GuisanLib" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="" />
+				<Option object_output="obj/Debug/" />
+				<Option type="2" />
+				<Option compiler="gcc" />
+				<Option createDefFile="1" />
+				<Compiler>
+					<Add option="-Wall" />
+					<Add option="-g" />
+					<Add option="-DGUICHAN_BUILD" />
+					<Add directory="C:/workspaces/workCodeblockLibs/GuisanLib" />
+					<Add directory="C:/workspaces/libs/SDL_2.0.3/SDL2_image-devel-2.0.0-mingw/SDL2_image-2.0.0/i686-w64-mingw32/include/SDL2" />
+					<Add directory="C:/workspaces/libs/SDL_2.0.3/SDL2_ttf-devel-2.0.12-mingw/SDL2_ttf-2.0.12/i686-w64-mingw32/include/SDL2" />
+					<Add directory="C:/workspaces/libs/SDL_2.0.3/SDL2-devel-2.0.3-mingw/SDL2-2.0.3/i686-w64-mingw32/include/SDL2" />
+				</Compiler>
+				<Linker>
+					<Add option="-lmingw32" />
+					<Add option="-lSDL2main" />
+					<Add option="-lSDL2" />
+					<Add option="-lSDL2_image" />
+					<Add option="-lSDL2_ttf" />
+					<Add library="C:\workspaces\libs\SDL_2.0.3\SDL2-devel-2.0.3-mingw\SDL2-2.0.3\i686-w64-mingw32\lib\libSDL2.a" />
+					<Add library="C:\workspaces\libs\SDL_2.0.3\SDL2-devel-2.0.3-mingw\SDL2-2.0.3\i686-w64-mingw32\lib\libSDL2.dll.a" />
+					<Add library="C:\workspaces\libs\SDL_2.0.3\SDL2-devel-2.0.3-mingw\SDL2-2.0.3\i686-w64-mingw32\lib\libSDL2_test.a" />
+					<Add library="C:\workspaces\libs\SDL_2.0.3\SDL2-devel-2.0.3-mingw\SDL2-2.0.3\i686-w64-mingw32\lib\libSDL2main.a" />
+					<Add library="C:\workspaces\libs\SDL_2.0.3\SDL2_image-devel-2.0.0-mingw\SDL2_image-2.0.0\i686-w64-mingw32\lib\libSDL2_image.a" />
+					<Add library="C:\workspaces\libs\SDL_2.0.3\SDL2_image-devel-2.0.0-mingw\SDL2_image-2.0.0\i686-w64-mingw32\lib\libSDL2_image.dll.a" />
+					<Add library="C:\workspaces\libs\SDL_2.0.3\SDL2_ttf-devel-2.0.12-mingw\SDL2_ttf-2.0.12\i686-w64-mingw32\lib\libSDL2_ttf.a" />
+					<Add library="C:\workspaces\libs\SDL_2.0.3\SDL2_ttf-devel-2.0.12-mingw\SDL2_ttf-2.0.12\i686-w64-mingw32\lib\libSDL2_ttf.dll.a" />
+					<Add directory="C:/workspaces/libs/SDL_2.0.3/SDL2_image-devel-2.0.0-mingw/SDL2_image-2.0.0/i686-w64-mingw32/lib" />
+					<Add directory="C:/workspaces/libs/SDL_2.0.3/SDL2_ttf-devel-2.0.12-mingw/SDL2_ttf-2.0.12/i686-w64-mingw32/lib" />
+					<Add directory="C:/workspaces/libs/SDL_2.0.3/SDL2-devel-2.0.3-mingw/SDL2-2.0.3/i686-w64-mingw32/lib" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/GuisanLib" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="" />
+				<Option object_output="obj/Release/" />
+				<Option type="2" />
+				<Option compiler="gcc" />
+				<Option createDefFile="1" />
+				<Compiler>
+					<Add option="-Wall" />
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Unit filename="GuisanLib.cbp" />
+		<Unit filename="actionevent.cpp" />
+		<Unit filename="basiccontainer.cpp" />
+		<Unit filename="cliprectangle.cpp" />
+		<Unit filename="color.cpp" />
+		<Unit filename="defaultfont.cpp" />
+		<Unit filename="event.cpp" />
+		<Unit filename="exception.cpp" />
+		<Unit filename="focushandler.cpp" />
+		<Unit filename="font.cpp" />
+		<Unit filename="genericinput.cpp" />
+		<Unit filename="graphics.cpp" />
+		<Unit filename="gui.cpp" />
+		<Unit filename="guisan.cpp" />
+		<Unit filename="guisan.hpp" />
+		<Unit filename="guisan/actionevent.hpp" />
+		<Unit filename="guisan/actionlistener.hpp" />
+		<Unit filename="guisan/basiccontainer.hpp" />
+		<Unit filename="guisan/cliprectangle.hpp" />
+		<Unit filename="guisan/color.hpp" />
+		<Unit filename="guisan/deathlistener.hpp" />
+		<Unit filename="guisan/defaultfont.hpp" />
+		<Unit filename="guisan/event.hpp" />
+		<Unit filename="guisan/exception.hpp" />
+		<Unit filename="guisan/focushandler.hpp" />
+		<Unit filename="guisan/focuslistener.hpp" />
+		<Unit filename="guisan/font.hpp" />
+		<Unit filename="guisan/genericinput.hpp" />
+		<Unit filename="guisan/glut.hpp" />
+		<Unit filename="guisan/graphics.hpp" />
+		<Unit filename="guisan/gui.hpp" />
+		<Unit filename="guisan/image.hpp" />
+		<Unit filename="guisan/imagefont.hpp" />
+		<Unit filename="guisan/imageloader.hpp" />
+		<Unit filename="guisan/input.hpp" />
+		<Unit filename="guisan/inputevent.hpp" />
+		<Unit filename="guisan/key.hpp" />
+		<Unit filename="guisan/keyevent.hpp" />
+		<Unit filename="guisan/keyinput.hpp" />
+		<Unit filename="guisan/keylistener.hpp" />
+		<Unit filename="guisan/listmodel.hpp" />
+		<Unit filename="guisan/mouseevent.hpp" />
+		<Unit filename="guisan/mouseinput.hpp" />
+		<Unit filename="guisan/mouselistener.hpp" />
+		<Unit filename="guisan/opengl.hpp" />
+		<Unit filename="guisan/platform.hpp" />
+		<Unit filename="guisan/rectangle.hpp" />
+		<Unit filename="guisan/sdl.hpp" />
+		<Unit filename="guisan/sdl/sdlgraphics.hpp" />
+		<Unit filename="guisan/sdl/sdlimage.hpp" />
+		<Unit filename="guisan/sdl/sdlimageloader.hpp" />
+		<Unit filename="guisan/sdl/sdlinput.hpp" />
+		<Unit filename="guisan/sdl/sdlpixel.hpp" />
+		<Unit filename="guisan/sdl/sdltruetypefont.hpp" />
+		<Unit filename="guisan/selectionevent.hpp" />
+		<Unit filename="guisan/selectionlistener.hpp" />
+		<Unit filename="guisan/widget.hpp" />
+		<Unit filename="guisan/widgetlistener.hpp" />
+		<Unit filename="guisan/widgets/button.hpp" />
+		<Unit filename="guisan/widgets/checkbox.hpp" />
+		<Unit filename="guisan/widgets/container.hpp" />
+		<Unit filename="guisan/widgets/dropdown.hpp" />
+		<Unit filename="guisan/widgets/icon.hpp" />
+		<Unit filename="guisan/widgets/imagebutton.hpp" />
+		<Unit filename="guisan/widgets/label.hpp" />
+		<Unit filename="guisan/widgets/listbox.hpp" />
+		<Unit filename="guisan/widgets/radiobutton.hpp" />
+		<Unit filename="guisan/widgets/scrollarea.hpp" />
+		<Unit filename="guisan/widgets/slider.hpp" />
+		<Unit filename="guisan/widgets/tab.hpp" />
+		<Unit filename="guisan/widgets/tabbedarea.hpp" />
+		<Unit filename="guisan/widgets/textbox.hpp" />
+		<Unit filename="guisan/widgets/textfield.hpp" />
+		<Unit filename="guisan/widgets/window.hpp" />
+		<Unit filename="guisan/x.hpp" />
+		<Unit filename="image.cpp" />
+		<Unit filename="imagefont.cpp" />
+		<Unit filename="inputevent.cpp" />
+		<Unit filename="key.cpp" />
+		<Unit filename="keyevent.cpp" />
+		<Unit filename="keyinput.cpp" />
+		<Unit filename="mouseevent.cpp" />
+		<Unit filename="mouseinput.cpp" />
+		<Unit filename="rectangle.cpp" />
+		<Unit filename="sdl/sdl.cpp" />
+		<Unit filename="sdl/sdlgraphics.cpp" />
+		<Unit filename="sdl/sdlimage.cpp" />
+		<Unit filename="sdl/sdlimageloader.cpp" />
+		<Unit filename="sdl/sdlinput.cpp" />
+		<Unit filename="sdl/sdltruetypefont.cpp" />
+		<Unit filename="selectionevent.cpp" />
+		<Unit filename="widget.cpp" />
+		<Unit filename="widgets/button.cpp" />
+		<Unit filename="widgets/checkbox.cpp" />
+		<Unit filename="widgets/container.cpp" />
+		<Unit filename="widgets/dropdown.cpp" />
+		<Unit filename="widgets/icon.cpp" />
+		<Unit filename="widgets/imagebutton.cpp" />
+		<Unit filename="widgets/label.cpp" />
+		<Unit filename="widgets/listbox.cpp" />
+		<Unit filename="widgets/radiobutton.cpp" />
+		<Unit filename="widgets/scrollarea.cpp" />
+		<Unit filename="widgets/slider.cpp" />
+		<Unit filename="widgets/tab.cpp" />
+		<Unit filename="widgets/tabbedarea.cpp" />
+		<Unit filename="widgets/textbox.cpp" />
+		<Unit filename="widgets/textfield.cpp" />
+		<Unit filename="widgets/window.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

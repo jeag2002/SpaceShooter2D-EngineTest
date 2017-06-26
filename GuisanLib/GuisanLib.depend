@@ -1,0 +1,613 @@
+# depslib dependency file v1.0
+1480633854 source:c:\workspaces\workcodeblocklibs\guisanlib\actionevent.cpp
+	"guisan/actionevent.hpp"
+
+1480633854 c:\workspaces\workcodeblocklibs\guisanlib\guisan\actionevent.hpp
+	"guisan/event.hpp"
+	"guisan/platform.hpp"
+	<string>
+
+1480633854 c:\workspaces\workcodeblocklibs\guisanlib\guisan\event.hpp
+	"guisan/platform.hpp"
+
+1480633854 c:\workspaces\workcodeblocklibs\guisanlib\guisan\platform.hpp
+
+1480633854 source:c:\workspaces\workcodeblocklibs\guisanlib\basiccontainer.cpp
+	"guisan/basiccontainer.hpp"
+	<algorithm>
+	"guisan/exception.hpp"
+	"guisan/focushandler.hpp"
+	"guisan/graphics.hpp"
+	"guisan/mouseinput.hpp"
+
+1480633854 c:\workspaces\workcodeblocklibs\guisanlib\guisan\basiccontainer.hpp
+	<list>
+	"guisan/deathlistener.hpp"
+	"guisan/platform.hpp"
+	"guisan/widget.hpp"
+
+1480633854 c:\workspaces\workcodeblocklibs\guisanlib\guisan\deathlistener.hpp
+	<string>
+	"guisan/event.hpp"
+	"guisan/platform.hpp"
+
+1480633854 c:\workspaces\workcodeblocklibs\guisanlib\guisan\widget.hpp
+	<list>
+	<string>
+	"guisan/color.hpp"
+	"guisan/rectangle.hpp"
+
+1480633854 c:\workspaces\workcodeblocklibs\guisanlib\guisan\color.hpp
+	"guisan/platform.hpp"
+
+1480633854 c:\workspaces\workcodeblocklibs\guisanlib\guisan\rectangle.hpp
+	"guisan/platform.hpp"
+
+1480633854 c:\workspaces\workcodeblocklibs\guisanlib\guisan\exception.hpp
+	<string>
+	"guisan/platform.hpp"
+
+1480633854 c:\workspaces\workcodeblocklibs\guisanlib\guisan\focushandler.hpp
+	<vector>
+	"guisan/event.hpp"
+	"guisan/platform.hpp"
+
+1480633854 c:\workspaces\workcodeblocklibs\guisanlib\guisan\graphics.hpp
+	<iosfwd>
+	<stack>
+	"guisan/cliprectangle.hpp"
+	"guisan/platform.hpp"
+
+1480633854 c:\workspaces\workcodeblocklibs\guisanlib\guisan\cliprectangle.hpp
+	"guisan/rectangle.hpp"
+	"guisan/platform.hpp"
+
+1480633854 c:\workspaces\workcodeblocklibs\guisanlib\guisan\mouseinput.hpp
+	"guisan/platform.hpp"
+
+1480633854 source:c:\workspaces\workcodeblocklibs\guisanlib\cliprectangle.cpp
+	"guisan/cliprectangle.hpp"
+
+1480633854 source:c:\workspaces\workcodeblocklibs\guisanlib\color.cpp
+	"guisan/color.hpp"
+
+1480633854 source:c:\workspaces\workcodeblocklibs\guisanlib\defaultfont.cpp
+	"guisan/defaultfont.hpp"
+	<string>
+	"guisan/graphics.hpp"
+	"guisan/rectangle.hpp"
+
+1480633854 c:\workspaces\workcodeblocklibs\guisanlib\guisan\defaultfont.hpp
+	"guisan/font.hpp"
+	"guisan/platform.hpp"
+
+1480633854 c:\workspaces\workcodeblocklibs\guisanlib\guisan\font.hpp
+	<string>
+	"guisan/platform.hpp"
+
+1480633854 source:c:\workspaces\workcodeblocklibs\guisanlib\event.cpp
+	"guisan/event.hpp"
+
+1480633854 source:c:\workspaces\workcodeblocklibs\guisanlib\exception.cpp
+	"guisan/exception.hpp"
+
+1480633854 source:c:\workspaces\workcodeblocklibs\guisanlib\focushandler.cpp
+	"guisan/focushandler.hpp"
+	"guisan/focuslistener.hpp"
+	"guisan/exception.hpp"
+	"guisan/widget.hpp"
+
+1480633854 c:\workspaces\workcodeblocklibs\guisanlib\guisan\focuslistener.hpp
+	<string>
+	"guisan/event.hpp"
+	"guisan/platform.hpp"
+
+1480633854 source:c:\workspaces\workcodeblocklibs\guisanlib\font.cpp
+	"guisan/font.hpp"
+	<string>
+
+1480633854 source:c:\workspaces\workcodeblocklibs\guisanlib\genericinput.cpp
+	"guisan/genericinput.hpp"
+	"guisan/exception.hpp"
+
+1480633854 c:\workspaces\workcodeblocklibs\guisanlib\guisan\genericinput.hpp
+	<queue>
+	"guisan/input.hpp"
+	"guisan/keyinput.hpp"
+	"guisan/mouseinput.hpp"
+	"guisan/platform.hpp"
+
+1480633854 c:\workspaces\workcodeblocklibs\guisanlib\guisan\input.hpp
+	"guisan/platform.hpp"
+
+1480633854 c:\workspaces\workcodeblocklibs\guisanlib\guisan\keyinput.hpp
+	"guisan/key.hpp"
+	"guisan/platform.hpp"
+
+1480633854 c:\workspaces\workcodeblocklibs\guisanlib\guisan\key.hpp
+	"guisan/platform.hpp"
+
+1480633854 source:c:\workspaces\workcodeblocklibs\guisanlib\graphics.cpp
+	"guisan/graphics.hpp"
+	"guisan/exception.hpp"
+	"guisan/font.hpp"
+	"guisan/image.hpp"
+
+1480633854 c:\workspaces\workcodeblocklibs\guisanlib\guisan\image.hpp
+	<string>
+	"guisan/platform.hpp"
+
+1480633854 source:c:\workspaces\workcodeblocklibs\guisanlib\gui.cpp
+	"guisan/gui.hpp"
+	"guisan/basiccontainer.hpp"
+	"guisan/exception.hpp"
+	"guisan/focushandler.hpp"
+	"guisan/graphics.hpp"
+	"guisan/input.hpp"
+	"guisan/keyinput.hpp"
+	"guisan/keylistener.hpp"
+	"guisan/mouseinput.hpp"
+	"guisan/mouselistener.hpp"
+	"guisan/widget.hpp"
+
+1480633854 c:\workspaces\workcodeblocklibs\guisanlib\guisan\gui.hpp
+	<list>
+	<deque>
+	"guisan/keyevent.hpp"
+	"guisan/mouseevent.hpp"
+	"guisan/mouseinput.hpp"
+	"guisan/platform.hpp"
+
+1480633854 c:\workspaces\workcodeblocklibs\guisanlib\guisan\keyevent.hpp
+	"guisan/inputevent.hpp"
+	"guisan/key.hpp"
+	"guisan/platform.hpp"
+
+1480633854 c:\workspaces\workcodeblocklibs\guisanlib\guisan\inputevent.hpp
+	"guisan/event.hpp"
+	"guisan/platform.hpp"
+
+1480633854 c:\workspaces\workcodeblocklibs\guisanlib\guisan\mouseevent.hpp
+	"guisan/inputevent.hpp"
+	"guisan/platform.hpp"
+
+1480633854 c:\workspaces\workcodeblocklibs\guisanlib\guisan\keylistener.hpp
+	"guisan/keyevent.hpp"
+	"guisan/platform.hpp"
+
+1480633854 c:\workspaces\workcodeblocklibs\guisanlib\guisan\mouselistener.hpp
+	"guisan/mouseevent.hpp"
+	"guisan/platform.hpp"
+
+1480633854 source:c:\workspaces\workcodeblocklibs\guisanlib\guisan.cpp
+
+1480633854 source:c:\workspaces\workcodeblocklibs\guisanlib\image.cpp
+	"guisan/image.hpp"
+	"guisan/exception.hpp"
+	"guisan/imageloader.hpp"
+
+1480633854 c:\workspaces\workcodeblocklibs\guisanlib\guisan\imageloader.hpp
+	<iosfwd>
+	"guisan/platform.hpp"
+
+1480633854 source:c:\workspaces\workcodeblocklibs\guisanlib\imagefont.cpp
+	"guisan/imagefont.hpp"
+	<sstream>
+	"guisan/color.hpp"
+	"guisan/exception.hpp"
+	"guisan/graphics.hpp"
+	"guisan/image.hpp"
+
+1480633854 c:\workspaces\workcodeblocklibs\guisanlib\guisan\imagefont.hpp
+	<string>
+	"guisan/font.hpp"
+	"guisan/platform.hpp"
+	"guisan/rectangle.hpp"
+
+1480633854 source:c:\workspaces\workcodeblocklibs\guisanlib\inputevent.cpp
+	"guisan/inputevent.hpp"
+
+1480633854 source:c:\workspaces\workcodeblocklibs\guisanlib\key.cpp
+	"guisan/key.hpp"
+
+1480633854 source:c:\workspaces\workcodeblocklibs\guisanlib\keyevent.cpp
+	"guisan/keyevent.hpp"
+
+1480633854 source:c:\workspaces\workcodeblocklibs\guisanlib\keyinput.cpp
+	"guisan/keyinput.hpp"
+
+1480633854 source:c:\workspaces\workcodeblocklibs\guisanlib\mouseevent.cpp
+	"guisan/mouseevent.hpp"
+
+1480633854 source:c:\workspaces\workcodeblocklibs\guisanlib\mouseinput.cpp
+	"guisan/mouseinput.hpp"
+
+1480633854 source:c:\workspaces\workcodeblocklibs\guisanlib\rectangle.cpp
+	"guisan/rectangle.hpp"
+
+1480633854 source:c:\workspaces\workcodeblocklibs\guisanlib\sdl\sdl.cpp
+	"guisan/sdl.hpp"
+
+1480633854 c:\workspaces\workcodeblocklibs\guisanlib\guisan\sdl.hpp
+	<guisan/sdl/sdlgraphics.hpp>
+	<guisan/sdl/sdlimage.hpp>
+	<guisan/sdl/sdlimageloader.hpp>
+	<guisan/sdl/sdlinput.hpp>
+	"platform.hpp"
+
+1487421352 c:\workspaces\workcodeblocklibs\guisanlib\guisan\sdl\sdlgraphics.hpp
+	"SDL.h"
+	"guisan/color.hpp"
+	"guisan/graphics.hpp"
+	"guisan/platform.hpp"
+
+1394937196 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937198 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1394937198 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1438211250 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394937198 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1394937198 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\close_code.h
+
+1394937196 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1394937196 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394937198 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937198 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1394937198 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937198 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937198 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937198 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937198 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1394937198 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1394937196 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937198 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1394937196 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937198 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937198 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937198 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937198 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937198 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937198 c:\workspaces\libs\sdl_2.0.3\sdl2-devel-2.0.3-mingw\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1487421366 c:\workspaces\workcodeblocklibs\guisanlib\guisan\sdl\sdlimage.hpp
+	"SDL.h"
+	<string>
+	"guisan/color.hpp"
+	"guisan/platform.hpp"
+	"guisan/image.hpp"
+
+1487421377 c:\workspaces\workcodeblocklibs\guisanlib\guisan\sdl\sdlimageloader.hpp
+	"guisan/imageloader.hpp"
+	"guisan/platform.hpp"
+	"SDL.h"
+
+1487421387 c:\workspaces\workcodeblocklibs\guisanlib\guisan\sdl\sdlinput.hpp
+	<queue>
+	"SDL.h"
+	"guisan/input.hpp"
+	"guisan/keyinput.hpp"
+	"guisan/mouseinput.hpp"
+	"guisan/platform.hpp"
+
+1480633854 source:c:\workspaces\workcodeblocklibs\guisanlib\sdl\sdlgraphics.cpp
+	"guisan/sdl/sdlgraphics.hpp"
+	"guisan/exception.hpp"
+	"guisan/font.hpp"
+	"guisan/image.hpp"
+	"guisan/sdl/sdlimage.hpp"
+	"guisan/sdl/sdlpixel.hpp"
+
+1487421396 c:\workspaces\workcodeblocklibs\guisanlib\guisan\sdl\sdlpixel.hpp
+	"SDL.h"
+	"guisan/color.hpp"
+
+1480633854 source:c:\workspaces\workcodeblocklibs\guisanlib\sdl\sdlimage.cpp
+	"guisan/sdl/sdlimage.hpp"
+	"guisan/exception.hpp"
+	"guisan/sdl/sdlpixel.hpp"
+
+1487421402 source:c:\workspaces\workcodeblocklibs\guisanlib\sdl\sdlimageloader.cpp
+	"guisan/sdl/sdlimage.hpp"
+	"SDL_image.h"
+	"guisan/exception.hpp"
+	"guisan/sdl/sdlimageloader.hpp"
+
+1376156342 c:\workspaces\libs\sdl_2.0.3\sdl2_image-devel-2.0.0-mingw\sdl2_image-2.0.0\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1480633854 source:c:\workspaces\workcodeblocklibs\guisanlib\sdl\sdlinput.cpp
+	"guisan/sdl/sdlinput.hpp"
+	"guisan/exception.hpp"
+
