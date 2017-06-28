@@ -1,0 +1,102 @@
+
+[INFO]  (31/12/2016 - 22:53:39) -  - LogEngine - INITIALIZED! to [DEBUG] 
+[INFO]  (31/12/2016 - 22:53:39) -  - VideoManager - Ventana nativa creada <800,600> 
+[DEBUG] (31/12/2016 - 22:53:39) -  - VideoManager::startUp --> OPENGL ES 3.0 VENDOR [Imagination Technologies (Host: Intel)]
+[DEBUG] (31/12/2016 - 22:53:39) -  - VideoManager::startUp --> OPENGL ES 3.0 VERSION [<Failed to query OpenGL ES version> (Host: 4.3.0 - Build 20.19.15.4331)]
+[DEBUG] (31/12/2016 - 22:53:39) -  - VideoManager::startUp--> OPENGL ES 3.0 RENDER VERSION [PVRVFrame 9.6 - None (Host: Intel(R) HD Graphics 4600) (SDK Build: 3.2@2637721) + PVRTrace 3.2 (3.2@2654748)]
+[DEBUG] (31/12/2016 - 22:53:39) -  - VideoManager::startUp --> OPENGL ES 3.0 SUPPORTED EXTENSION [GL_IMG_texture_compression_pvrtc]
+[DEBUG] (31/12/2016 - 22:53:39) -  - VideoManager::startUp --> OPENGL ES 3.0 SUPPORTED EXTENSION [GL_APPLE_copy_texture_levels]
+[DEBUG] (31/12/2016 - 22:53:39) -  - VideoManager::startUp --> OPENGL ES 3.0 SUPPORTED EXTENSION [GL_APPLE_sync]
+[DEBUG] (31/12/2016 - 22:53:39) -  - VideoManager::startUp --> OPENGL ES 3.0 SUPPORTED EXTENSION [GL_IMG_multisampled_render_to_texture]
+[DEBUG] (31/12/2016 - 22:53:39) -  - VideoManager::startUp --> OPENGL ES 3.0 SUPPORTED EXTENSION [GL_EXT_discard_framebuffer]
+[DEBUG] (31/12/2016 - 22:53:39) -  - VideoManager::startUp --> OPENGL ES 3.0 SUPPORTED EXTENSION [GL_EXT_multi_draw_arrays]
+[DEBUG] (31/12/2016 - 22:53:39) -  - VideoManager::startUp --> OPENGL ES 3.0 SUPPORTED EXTENSION [GL_EXT_texture_storage]
+[DEBUG] (31/12/2016 - 22:53:39) -  - VideoManager::startUp --> OPENGL ES 3.0 SUPPORTED EXTENSION [GL_OES_compressed_ETC1_RGB8_texture]
+[DEBUG] (31/12/2016 - 22:53:39) -  - VideoManager::startUp --> OPENGL ES 3.0 SUPPORTED EXTENSION [GL_OES_mapbuffer]
+[DEBUG] (31/12/2016 - 22:53:39) -  - VideoManager::startUp --> OPENGL ES 3.0 SUPPORTED EXTENSION [GL_OES_vertex_array_object]
+[DEBUG] (31/12/2016 - 22:53:39) -  - VideoManager::startUp --> OPENGL ES 3.0 SUPPORTED EXTENSION [GL_OES_byte_coordinates]
+[DEBUG] (31/12/2016 - 22:53:39) -  - VideoManager::startUp --> OPENGL ES 3.0 SUPPORTED EXTENSION [GL_OES_fixed_point]
+[DEBUG] (31/12/2016 - 22:53:39) -  - VideoManager::startUp --> OPENGL ES 3.0 SUPPORTED EXTENSION [GL_OES_single_precision]
+[DEBUG] (31/12/2016 - 22:53:39) -  - VideoManager::startUp --> OPENGL ES 3.0 SUPPORTED EXTENSION [GL_OES_matrix_get]
+[DEBUG] (31/12/2016 - 22:53:39) -  - VideoManager::startUp --> OPENGL ES 3.0 SUPPORTED EXTENSION [GL_OES_read_format]
+[DEBUG] (31/12/2016 - 22:53:39) -  - VideoManager::startUp --> OPENGL ES 3.0 SUPPORTED EXTENSION [GL_OES_point_sprite]
+[DEBUG] (31/12/2016 - 22:53:39) -  - VideoManager::startUp --> OPENGL ES 3.0 SUPPORTED EXTENSION [GL_OES_texture_env_crossbar]
+[DEBUG] (31/12/2016 - 22:53:39) -  - VideoManager::startUp --> OPENGL ES 3.0 SUPPORTED EXTENSION [GL_OES_texture_mirrored_repeat]
+[DEBUG] (31/12/2016 - 22:53:39) -  - VideoManager::startUp --> OPENGL ES 3.0 SUPPORTED EXTENSION [GL_OES_texture_cube_map]
+[DEBUG] (31/12/2016 - 22:53:39) -  - VideoManager::startUp --> OPENGL ES 3.0 SUPPORTED EXTENSION [GL_OES_blend_func_separate]
+[DEBUG] (31/12/2016 - 22:53:39) -  - VideoManager::startUp --> OPENGL ES 3.0 SUPPORTED EXTENSION [GL_OES_stencil_wrap]
+[DEBUG] (31/12/2016 - 22:53:39) -  - VideoManager::startUp --> OPENGL ES 3.0 SUPPORTED EXTENSION [GL_OES_extended_matrix_palette]
+[DEBUG] (31/12/2016 - 22:53:39) -  - VideoManager::startUp --> OPENGL ES 3.0 SUPPORTED EXTENSION [GL_OES_required_internalformat]
+[DEBUG] (31/12/2016 - 22:53:39) -  - VideoManager::startUp --> OPENGL ES 3.0 SUPPORTED EXTENSION [GL_IMG_read_format]
+[DEBUG] (31/12/2016 - 22:53:39) -  - VideoManager::startUp --> OPENGL ES 3.0 SUPPORTED EXTENSION [GL_IMG_texture_format_BGRA8888]
+[DEBUG] (31/12/2016 - 22:53:39) -  - VideoManager::startUp --> OPENGL ES 3.0 SUPPORTED EXTENSION [GL_EXT_texture_format_BGRA8888]
+[DEBUG] (31/12/2016 - 22:53:39) -  - VideoManager::startUp --> OPENGL ES 3.0 SUPPORTED EXTENSION [GL_IMG_texture_stream]
+[DEBUG] (31/12/2016 - 22:53:39) -  - VideoManager::startUp --> OPENGL ES 3.0 SUPPORTED EXTENSION [GL_OES_egl_sync]
+[DEBUG] (31/12/2016 - 22:53:39) -  - VideoManager::startUp --> OPENGL ES 3.0 SUPPORTED EXTENSION [GL_IMG_vertex_array_object]
+[DEBUG] (31/12/2016 - 22:53:39) -  - VideoManager::startUp --> OPENGL ES 3.0 SUPPORTED EXTENSION [GL_APPLE_texture_2D_limited_npot]
+[DEBUG] (31/12/2016 - 22:53:39) -  - VideoManager::startUp --> OPENGL ES 3.0 SUPPORTED EXTENSION [GL_IMG_uniform_buffer_object]
+[DEBUG] (31/12/2016 - 22:53:39) -  - VideoManager::startUp --> OPENGL ES 3.0 SUPPORTED EXTENSION [GL_EXT_debug_marker]
+[DEBUG] (31/12/2016 - 22:53:39) -  - VideoManager::startUp --> OPENGL ES 3.0 SUPPORTED EXTENSION [GL_IMG_texture_env_enhanced_fixed_function]
+[DEBUG] (31/12/2016 - 22:53:39) -  - VideoManager::startUp --> OPENGL ES 3.0 SUPPORTED EXTENSION [GL_OES_matrix_palette]
+[DEBUG] (31/12/2016 - 22:53:39) -  - VideoManager::startUp --> OPENGL ES 3.0 SUPPORTED EXTENSION [GL_IMG_user_clip_plane]
+[DEBUG] (31/12/2016 - 22:53:39) -  - VideoManager::startUp --> OPENGL ES 3.0 SUPPORTED EXTENSION [GL_OES_draw_texture]
+[DEBUG] (31/12/2016 - 22:53:39) -  - VideoManager::startUp --> OPENGL ES 3.0 SUPPORTED EXTENSION [GL_OES_point_size_array]
+[DEBUG] (31/12/2016 - 22:53:39) -  - VideoManager::startUp --> OPENGL ES 3.0 SUPPORTED EXTENSION [GL_OES_framebuffer_object]
+[DEBUG] (31/12/2016 - 22:53:39) -  - VideoManager::startUp --> OPENGL ES 3.0 SUPPORTED EXTENSION [GL_OES_query_matrix]
+[DEBUG] (31/12/2016 - 22:53:39) -  - VideoManager::startUp --> OPENGL ES 3.0 SUPPORTED EXTENSION [GL_OES_blend_equation_separate]
+[DEBUG] (31/12/2016 - 22:53:39) -  - VideoManager::startUp --> OPENGL ES 3.0 SUPPORTED EXTENSION [GL_OES_blend_subtract]
+[DEBUG] (31/12/2016 - 22:53:39) -  - VideoManager::startUp --> OPENGL ES 3.0 SUPPORTED EXTENSION [GL_OES_texture_float]
+[DEBUG] (31/12/2016 - 22:53:39) -  - VideoManager::startUp --> OPENGL ES 3.0 SUPPORTED EXTENSION [GL_OES_texture_half_float]
+[DEBUG] (31/12/2016 - 22:53:39) -  - VideoManager::startUp --> OPENGL ES 3.0 SUPPORTED EXTENSION [GL_OES_element_index_uint]
+[DEBUG] (31/12/2016 - 22:53:39) -  - VideoManager::startUp --> OPENGL ES 3.0 SUPPORTED EXTENSION [GL_OES_fragment_precision_high]
+[DEBUG] (31/12/2016 - 22:53:39) -  - VideoManager::startUp --> OPENGL ES 3.0 SUPPORTED EXTENSION [GL_OES_depth_texture]
+[DEBUG] (31/12/2016 - 22:53:39) -  - VideoManager::startUp --> OPENGL ES 3.0 SUPPORTED EXTENSION [GL_OES_packed_depth_stencil]
+[DEBUG] (31/12/2016 - 22:53:39) -  - VideoManager::startUp --> OPENGL ES 3.0 SUPPORTED EXTENSION [GL_OES_standard_derivatives]
+[DEBUG] (31/12/2016 - 22:53:39) -  - VideoManager::startUp --> OPENGL ES 3.0 SUPPORTED EXTENSION [GL_IMG_shader_binary]
+[DEBUG] (31/12/2016 - 22:53:39) -  - VideoManager::startUp --> OPENGL ES 3.0 SUPPORTED EXTENSION [GL_IMG_texture_stream2]
+[DEBUG] (31/12/2016 - 22:53:39) -  - VideoManager::startUp --> OPENGL ES 3.0 SUPPORTED EXTENSION [GL_IMG_texture_npot]
+[DEBUG] (31/12/2016 - 22:53:39) -  - VideoManager::startUp --> OPENGL ES 3.0 SUPPORTED EXTENSION [GL_IMG_program_binary]
+[DEBUG] (31/12/2016 - 22:53:39) -  - VideoManager::startUp --> OPENGL ES 3.0 SUPPORTED EXTENSION [GL_EXT_texture_filter_anisotropic]
+[DEBUG] (31/12/2016 - 22:53:39) -  - VideoManager::startUp --> OPENGL ES 3.0 SUPPORTED EXTENSION [GL_IMG_texture_compression_pvrtc2]
+[DEBUG] (31/12/2016 - 22:53:39) -  - VideoManager::startUp --> OPENGL ES 3.0 SUPPORTED EXTENSION [GL_EXT_blend_minmax]
+[DEBUG] (31/12/2016 - 22:53:39) -  - VideoManager::startUp --> OPENGL ES 3.0 SUPPORTED EXTENSION [GL_EXT_draw_buffers]
+[DEBUG] (31/12/2016 - 22:53:39) -  - VideoManager::startUp --> OPENGL ES 3.0 SUPPORTED EXTENSION [GL_EXT_multisampled_render_to_texture]
+[DEBUG] (31/12/2016 - 22:53:39) -  - VideoManager::startUp --> OPENGL ES 3.0 SUPPORTED EXTENSION [GL_EXT_occlusion_query_boolean]
+[DEBUG] (31/12/2016 - 22:53:39) -  - VideoManager::startUp --> OPENGL ES 3.0 SUPPORTED EXTENSION [GL_KHR_debug]
+[DEBUG] (31/12/2016 - 22:53:39) -  - VideoManager::startUp --> OPENGL ES 3.0 SUPPORTED EXTENSION [GL_OES_get_program_binary]
+[DEBUG] (31/12/2016 - 22:53:39) -  - VideoManager::startUp --> OPENGL ES 3.0 SUPPORTED EXTENSION [GL_EXT_texture_type_2_10_10_10_REV]
+[DEBUG] (31/12/2016 - 22:53:39) -  - VideoManager::startUp --> OPENGL ES 3.0 SUPPORTED EXTENSION [GL_EXT_texture_rg]
+[DEBUG] (31/12/2016 - 22:53:39) -  - VideoManager::startUp --> OPENGL ES 3.0 SUPPORTED EXTENSION [GL_OES_depth_texture_cube_map]
+[INFO]  (31/12/2016 - 22:53:39) -  - VIDEOMANAGER - INITIALIZED!
+[DEBUG] (31/12/2016 - 22:53:39) -  - ImageFactoryManager::startUp() - loadImage data/asserts/sin24_a.bmp, key BACK_1 ID[1]
+[DEBUG] (31/12/2016 - 22:53:39) -  - ImageFactoryManager::startUp() - loadImage data/asserts/background.bmp, key BACK_2 ID[2]
+[DEBUG] (31/12/2016 - 22:53:39) -  - ImageFactoryManager::startUp() - loadImage data/asserts/mapa_2.png, key MAP_1 ID[3]
+[DEBUG] (31/12/2016 - 22:53:39) -  - ImageFactoryManager::startUp() - loadImage data/asserts/player/Ship_1_Tot.bmp, key PLAYER_1 ID[4]
+[DEBUG] (31/12/2016 - 22:53:39) -  - ImageFactoryManager::startUp() - loadImage data/asserts/text/texto_2.bmp, key TEXT_1 ID[5]
+[INFO]  (31/12/2016 - 22:53:39) -  - IMAGEFACTORYMANAGER - INITIALIZED!
+[DEBUG] (31/12/2016 - 22:53:39) -  - RenderManager::startUp - load vertex_shader ./data/shader/initvertex.txt fragment_shader ./data/shader/initfragment.txt
+[INFO]  (31/12/2016 - 22:53:39) -  - RENDERMANAGER - INITIALIZED!
+[INFO]  (31/12/2016 - 22:53:39) -  - levelFactoryManager::startUp() processing key step_1 data LEVEL path data/level1
+[DEBUG] (31/12/2016 - 22:53:39) -  - Level::createMap() - Id Image [0] MAP_1
+[ERROR] (31/12/2016 - 22:53:39) -  - Level::createMap() - Id Image no válido
+[DEBUG] (31/12/2016 - 22:53:39) -  - Level::createMap() - Id Image [3] MAP_1
+[DEBUG] (31/12/2016 - 22:53:39) -  - Level::beginEngine() - IN
+[DEBUG] (31/12/2016 - 22:53:39) -  - RenderManager::startUp - load vertex_shader ./data/shader/tilevertex.txt fragment_shader ./data/shader/tilefragment.txt
+[INFO]  (31/12/2016 - 22:53:39) -  - RENDERMANAGER - INITIALIZED!
+[INFO]  (31/12/2016 - 22:53:39) -  - Level::beginEngine() - OUT
+[DEBUG] (31/12/2016 - 22:53:39) -  - Level - LEVEL creado!
+[INFO]  (31/12/2016 - 22:53:39) -  - LevelFactoryManager::startUp() - First-Level step_1
+[INFO]  (31/12/2016 - 22:53:39) -  - LEVELFACTORYMANAGER - INITIALIZED!
+[INFO]  (31/12/2016 - 22:53:39) -  - ############################################
+[INFO]  (31/12/2016 - 22:53:39) -  - SINISTAR 1.00.000.1  BEGIN                  
+[INFO]  (31/12/2016 - 22:53:39) -  - ############################################
+[INFO]  (31/12/2016 - 22:53:39) -  - LEVELFACTORYMANAGER - RUN!
+[DEBUG] (31/12/2016 - 22:53:39) -  - Level::runProcess() - IN
+[DEBUG] (31/12/2016 - 22:53:39) -  - Level::runProcess() - OUT
+[INFO]  (31/12/2016 - 22:53:40) -  - ############################################
+[INFO]  (31/12/2016 - 22:53:40) -  - SINISTAR 1.00.000.1  END                    
+[INFO]  (31/12/2016 - 22:53:40) -  - ############################################
+[INFO]  (31/12/2016 - 22:53:40) -  - LEVELFACTORYMANAGER - FINISHED!
+[INFO]  (31/12/2016 - 22:53:40) -  - RENDERMANAGER - FINISHED!
+[INFO]  (31/12/2016 - 22:53:40) -  - IMAGEFACTORYMANAGER - FINISHED!
+[INFO]  (31/12/2016 - 22:53:40) -  - VIDEOMANAGER - FINISHED!

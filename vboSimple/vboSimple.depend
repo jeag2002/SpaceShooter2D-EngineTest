@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1398295406 source:c:\workspaces\development\workcodeblocks\vbosimple\glinfo.cpp
+	<windows.h>
+	<OpenGL/gl.h>
+	<GL/gl.h>
+	<iostream>
+	<sstream>
+	<iomanip>
+	<algorithm>
+	<cstring>
+	"glInfo.h"
+	<windows.h>
+
+1398295406 c:\workspaces\development\workcodeblocks\vbosimple\glinfo.h
+	<string>
+	<vector>
+
+1334156658 source:c:\workspaces\development\workcodeblocks\vbosimple\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<cstdlib>
+	<iostream>
+	<sstream>
+	<iomanip>
+	"glext.h"
+	"glInfo.h"
+
+1398295416 c:\workspaces\development\workcodeblocks\vbosimple\glut\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1333560558 c:\workspaces\development\workcodeblocks\vbosimple\glext.h
+	<windows.h>
+	<stddef.h>
+	<inttypes.h>
+	<inttypes.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdint.h>
+	<inttypes.h>
+

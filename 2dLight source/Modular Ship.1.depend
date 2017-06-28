@@ -1,0 +1,1503 @@
+# depslib dependency file v1.0
+1189864950 source:j:\programming\sdlgl_experiments\gl template\main.c
+	<windows.h>
+	<gl/gl.h>
+
+1295218638 source:j:\programming\sdlgl_experiments\gl template\main.cpp
+	"GLGraphics.h"
+
+1295247976 j:\programming\sdlgl_experiments\gl template\glgraphics.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_opengl.h>
+	<string>
+	<SDL_gfxPrimitives.h>
+	<ctime>
+
+1201715680 c:\codeblocks\mingw\include\sdl\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1201715680 c:\codeblocks\mingw\include\sdl\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1201715680 c:\codeblocks\mingw\include\sdl\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1201715680 c:\codeblocks\mingw\include\sdl\include\sdl_config.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1201715680 c:\codeblocks\mingw\include\sdl\include\sdl_platform.h
+
+1255381640 c:\codeblocks\mingw\include\sdl\include\sdl_config_dreamcast.h
+	"SDL_platform.h"
+
+1255381640 c:\codeblocks\mingw\include\sdl\include\sdl_config_macos.h
+	"SDL_platform.h"
+	<MacTypes.h>
+
+1255381640 c:\codeblocks\mingw\include\sdl\include\sdl_config_macosx.h
+	"SDL_platform.h"
+	<AvailabilityMacros.h>
+
+1255381640 c:\codeblocks\mingw\include\sdl\include\sdl_config_symbian.h
+	"SDL_platform.h"
+	<stdarg.h>
+	<stddef.h>
+
+1255381640 c:\codeblocks\mingw\include\sdl\include\sdl_config_win32.h
+	"SDL_platform.h"
+
+1255381640 c:\codeblocks\mingw\include\sdl\include\sdl_config_os2.h
+	"SDL_platform.h"
+
+1255381640 c:\codeblocks\mingw\include\sdl\include\sdl_config_minimal.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1201715680 c:\codeblocks\mingw\include\sdl\include\begin_code.h
+
+1201715680 c:\codeblocks\mingw\include\sdl\include\close_code.h
+
+1201715680 c:\codeblocks\mingw\include\sdl\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1201715680 c:\codeblocks\mingw\include\sdl\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1201715680 c:\codeblocks\mingw\include\sdl\include\sdl_endian.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1201715680 c:\codeblocks\mingw\include\sdl\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1201715680 c:\codeblocks\mingw\include\sdl\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1201715680 c:\codeblocks\mingw\include\sdl\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1201715680 c:\codeblocks\mingw\include\sdl\include\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1201715680 c:\codeblocks\mingw\include\sdl\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1201715680 c:\codeblocks\mingw\include\sdl\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1201715680 c:\codeblocks\mingw\include\sdl\include\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1201715680 c:\codeblocks\mingw\include\sdl\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1201715680 c:\codeblocks\mingw\include\sdl\include\sdl_keysym.h
+
+1201715680 c:\codeblocks\mingw\include\sdl\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1201715680 c:\codeblocks\mingw\include\sdl\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1201715680 c:\codeblocks\mingw\include\sdl\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1201715680 c:\codeblocks\mingw\include\sdl\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1201715680 c:\codeblocks\mingw\include\sdl\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1201715680 c:\codeblocks\mingw\include\sdl\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1201715680 c:\codeblocks\mingw\include\sdl\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1201716430 c:\codeblocks\mingw\include\sdl\include\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1201715680 c:\codeblocks\mingw\include\sdl\include\sdl_opengl.h
+	"SDL_config.h"
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<gl.h>
+	<glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<windows.h>
+	<stddef.h>
+
+1201703294 c:\codeblocks\mingw\include\sdl\include\sdl_gfxprimitives.h
+	<math.h>
+	<SDL/SDL.h>
+
+1295218444 source:j:\programming\sdlgl_experiments\gl template\glgraphics.cpp
+	"GLGraphics.h"
+
+1295381086 source:i:\programming\sdlgl_experiments\gl template\main.cpp
+	"GLGraphics.h"
+
+1295247976 i:\programming\sdlgl_experiments\gl template\glgraphics.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_opengl.h>
+	<string>
+	<SDL_gfxPrimitives.h>
+	<ctime>
+
+1295224358 source:i:\programming\sdlgl_experiments\gl template\glgraphics.cpp
+	"GLGraphics.h"
+
+1297796696 source:i:\programming\modular ship\main.cpp
+	"GLGraphics.h"
+	"Game.h"
+	"GLText.h"
+
+1297804982 i:\programming\modular ship\glgraphics.h
+	<SDL.h>
+	<SDL_image.h>
+	"GLee.h"
+	<SDL_opengl.h>
+	<gl/gl.h>
+	<gl/glu.h>
+	"Glut.h"
+	<gl/glext.h>
+	<string>
+	<SDL_gfxPrimitives.h>
+	<ctime>
+	"Util.h"
+
+1296937744 source:i:\programming\modular ship\glgraphics.cpp
+	"GLGraphics.h"
+
+1297795852 source:i:\programming\modular ship\mods.cpp
+	"Mods.h"
+
+1297804876 i:\programming\modular ship\mods.h
+	"GLGraphics.h"
+	"Debug.h"
+	"Bullets.h"
+	"vector2.h"
+	"vector3.h"
+	"GLText.h"
+
+1296620334 i:\programming\modular ship\vector2.h
+	<cmath>
+
+1297574758 source:i:\programming\modular ship\ship.cpp
+	"Ship.h"
+
+1297795950 i:\programming\modular ship\ship.h
+	"Mods.h"
+	"DamageMod.h"
+	"ShieldMod.h"
+	"PowerBar.h"
+	"Bullets.h"
+	"Particle.h"
+	<vector>
+
+1295895974 source:i:\programming\modular ship\glvertex.cpp
+
+1295895974 source:e:\programming\modular ship\glvertex.cpp
+
+1297135022 source:e:\programming\modular ship\mods.cpp
+	"Mods.h"
+
+1296874796 e:\programming\modular ship\mods.h
+	"GLGraphics.h"
+	"Debug.h"
+	"Bullets.h"
+	"vector2.h"
+	"vector3.h"
+
+1296628796 e:\programming\modular ship\glgraphics.h
+	<SDL.h>
+	<SDL_image.h>
+	"GLee.h"
+	<SDL_opengl.h>
+	<gl/gl.h>
+	<gl/glu.h>
+	<gl/glext.h>
+	<string>
+	<SDL_gfxPrimitives.h>
+	<ctime>
+
+1296620334 e:\programming\modular ship\vector2.h
+	<cmath>
+
+1296807196 source:e:\programming\modular ship\ship.cpp
+	"Ship.h"
+
+1297108446 e:\programming\modular ship\ship.h
+	"Mods.h"
+	"PowerBar.h"
+	"Bullets.h"
+	"Particle.h"
+	<vector>
+
+1296722268 source:e:\programming\modular ship\glgraphics.cpp
+	"GLGraphics.h"
+
+1297202148 source:e:\programming\modular ship\main.cpp
+	"GLGraphics.h"
+	"Game.h"
+
+1295899376 e:\programming\modular ship\glvertex.h
+
+1234057582 e:\programming\modular ship\glee.h
+	<windows.h>
+	<GL/gl.h>
+	<OpenGL/gl.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	<stddef.h>
+
+1234057582 source:e:\programming\modular ship\glee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"GLee.h"
+	<Carbon/Carbon.h>
+
+1234057582 source:i:\programming\modular ship\glee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"GLee.h"
+	<Carbon/Carbon.h>
+
+1234057582 i:\programming\modular ship\glee.h
+	<windows.h>
+	<GL/gl.h>
+	<OpenGL/gl.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	<stddef.h>
+
+1295899376 i:\programming\modular ship\glvertex.h
+
+1297796616 i:\programming\modular ship\bullets.h
+	"GLGraphics.h"
+	"vector2.h"
+	"Collision.h"
+	"Debug.h"
+	<deque>
+	<cmath>
+
+1297796622 source:i:\programming\modular ship\bullets.cpp
+	"bullets.h"
+
+1297801148 source:i:\programming\modular ship\game.cpp
+	"Game.h"
+
+1297799232 i:\programming\modular ship\game.h
+	"Debug.h"
+	"Util.h"
+	"Particle.h"
+	<vector>
+	<string>
+	"GameStructs.h"
+	"aiShip.h"
+	"PlayerShip.h"
+	"GLText.h"
+
+1296852234 i:\programming\modular ship\collision.h
+	"vector2.h"
+	<cmath>
+	<SDL.h>
+	<SDL_image.h>
+
+1296880420 source:i:\programming\modular ship\collision.cpp
+	"Collision.h"
+
+1297544842 source:i:\programming\modular ship\debug.cpp
+	"Debug.h"
+
+1297795922 i:\programming\modular ship\debug.h
+	<SDL.h>
+	"GLGraphics.h"
+	"GLText.h"
+	<fstream>
+	<vector>
+
+1297696412 i:\programming\modular ship\particle.h
+	"vector2.h"
+	"vector3.h"
+	"GLGraphics.h"
+	"Debug.h"
+	"Util.h"
+	<deque>
+	<algorithm>
+
+1296618064 i:\programming\modular ship\vector3.h
+	<cmath>
+
+1297698002 source:i:\programming\modular ship\particle.cpp
+	"Particle.h"
+
+1297564890 source:i:\programming\modular ship\gltext.cpp
+	"GLText.h"
+	"GLGraphics.h"
+
+1297544670 i:\programming\modular ship\gltext.h
+
+1201710490 c:\codeblocks\mingw\include\sdl\include\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1297547610 i:\programming\modular ship\powerbar.h
+	"GLGraphics.h"
+
+1297547610 source:i:\programming\modular ship\powerbar.cpp
+	"PowerBar.h"
+
+1297628812 i:\programming\modular ship\util.h
+	<stdlib.h>
+	<math.h>
+	<sstream>
+	<string>
+
+1297796616 source:i:\programming\modular ship\aiship.cpp
+	"aiShip.h"
+
+1297622080 i:\programming\modular ship\aiship.h
+	"Ship.h"
+	"Util.h"
+
+1297798360 source:i:\programming\modular ship\playership.cpp
+	"PlayerShip.h"
+
+1297798274 i:\programming\modular ship\playership.h
+	"Ship.h"
+
+1297135736 source:e:\programming\modular ship\bullets.cpp
+	"bullets.h"
+
+1297108446 e:\programming\modular ship\bullets.h
+	"GLGraphics.h"
+	"vector2.h"
+	"Collision.h"
+	"Debug.h"
+	<deque>
+	<cmath>
+
+1296852234 e:\programming\modular ship\collision.h
+	"vector2.h"
+	<cmath>
+	<SDL.h>
+	<SDL_image.h>
+
+1297039760 e:\programming\modular ship\debug.h
+	<SDL.h>
+	<SDL_gfxprimitives.h>
+	"GLGraphics.h"
+	<fstream>
+	<vector>
+
+1296880420 source:e:\programming\modular ship\collision.cpp
+	"Collision.h"
+
+1296449848 source:e:\programming\modular ship\debug.cpp
+	"Debug.h"
+
+1296691674 source:e:\programming\modular ship\gltext.cpp
+	"GLText.h"
+
+1296631710 e:\programming\modular ship\gltext.h
+	"SDL_ttf.h"
+	"vector2.h"
+	"vector3.h"
+	"GLGraphics.h"
+	"Debug.h"
+
+1296618064 e:\programming\modular ship\vector3.h
+	<cmath>
+
+1297202078 source:e:\programming\modular ship\particle.cpp
+	"Particle.h"
+
+1297199106 e:\programming\modular ship\particle.h
+	"vector2.h"
+	"vector3.h"
+	"GLGraphics.h"
+	"Debug.h"
+	"Util.h"
+	<deque>
+	<algorithm>
+
+1297129582 source:e:\programming\modular ship\playership.cpp
+	"PlayerShip.h"
+
+1297129334 e:\programming\modular ship\playership.h
+	"Ship.h"
+
+1297129528 e:\programming\modular ship\powerbar.h
+	"GLGraphics.h"
+
+1297129528 source:e:\programming\modular ship\powerbar.cpp
+	"PowerBar.h"
+
+1297134452 source:e:\programming\modular ship\aiship.cpp
+	"aiShip.h"
+
+1297134076 e:\programming\modular ship\aiship.h
+	"Ship.h"
+	"Util.h"
+
+1296871932 e:\programming\modular ship\util.h
+	<stdlib.h>
+	<math.h>
+	<sstream>
+	<string>
+
+1297201792 e:\programming\modular ship\game.h
+	"Debug.h"
+	"Util.h"
+	"Particle.h"
+	<vector>
+	"aiShip.h"
+	"PlayerShip.h"
+
+1297201792 source:e:\programming\modular ship\game.cpp
+	"Game.h"
+
+1297135736 source:c:\users\patrick\documents\programming\modular ship\bullets.cpp
+	"bullets.h"
+
+1297108446 c:\users\patrick\documents\programming\modular ship\bullets.h
+	"GLGraphics.h"
+	"vector2.h"
+	"Collision.h"
+	"Debug.h"
+	<deque>
+	<cmath>
+
+1297541625 c:\users\patrick\documents\programming\modular ship\glgraphics.h
+	<SDL.h>
+	<SDL_image.h>
+	"GLee.h"
+	<SDL_opengl.h>
+	<gl/gl.h>
+	<gl/glu.h>
+	"glut.h"
+	<gl/glext.h>
+	<string>
+	<SDL_gfxPrimitives.h>
+	<ctime>
+
+1234057582 c:\users\patrick\documents\programming\modular ship\glee.h
+	<windows.h>
+	<GL/gl.h>
+	<OpenGL/gl.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	<stddef.h>
+
+1296620334 c:\users\patrick\documents\programming\modular ship\vector2.h
+	<cmath>
+
+1296852234 c:\users\patrick\documents\programming\modular ship\collision.h
+	"vector2.h"
+	<cmath>
+	<SDL.h>
+	<SDL_image.h>
+
+1297544619 c:\users\patrick\documents\programming\modular ship\debug.h
+	<SDL.h>
+	<SDL_gfxprimitives.h>
+	"GLGraphics.h"
+	"GLText.h"
+	<fstream>
+	<vector>
+
+1296880420 source:c:\users\patrick\documents\programming\modular ship\collision.cpp
+	"Collision.h"
+
+1297544840 source:c:\users\patrick\documents\programming\modular ship\debug.cpp
+	"Debug.h"
+
+1296722268 source:c:\users\patrick\documents\programming\modular ship\glgraphics.cpp
+	"GLGraphics.h"
+
+1297564889 source:c:\users\patrick\documents\programming\modular ship\gltext.cpp
+	"GLText.h"
+	"GLGraphics.h"
+
+1297544669 c:\users\patrick\documents\programming\modular ship\gltext.h
+
+1296618064 c:\users\patrick\documents\programming\modular ship\vector3.h
+	<cmath>
+
+1234057582 source:c:\users\patrick\documents\programming\modular ship\glee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"GLee.h"
+	<Carbon/Carbon.h>
+
+1297645427 source:c:\users\patrick\documents\programming\modular ship\game.cpp
+	"Game.h"
+
+1297645442 c:\users\patrick\documents\programming\modular ship\game.h
+	"Debug.h"
+	"Util.h"
+	"Particle.h"
+	<vector>
+	<string>
+	"GameStructs.h"
+	"aiShip.h"
+	"PlayerShip.h"
+	"GLText.h"
+
+1297628810 c:\users\patrick\documents\programming\modular ship\util.h
+	<stdlib.h>
+	<math.h>
+	<sstream>
+	<string>
+
+1297538582 c:\users\patrick\documents\programming\modular ship\particle.h
+	"vector2.h"
+	"vector3.h"
+	"GLGraphics.h"
+	"Debug.h"
+	"Util.h"
+	<deque>
+	<algorithm>
+
+1297622078 c:\users\patrick\documents\programming\modular ship\aiship.h
+	"Ship.h"
+	"Util.h"
+
+1297575170 c:\users\patrick\documents\programming\modular ship\ship.h
+	"Mods.h"
+	"PowerBar.h"
+	"Bullets.h"
+	"Particle.h"
+	<vector>
+
+1297575742 c:\users\patrick\documents\programming\modular ship\mods.h
+	"GLGraphics.h"
+	"Debug.h"
+	"Bullets.h"
+	"vector2.h"
+	"vector3.h"
+	"GLText.h"
+
+1297547609 c:\users\patrick\documents\programming\modular ship\powerbar.h
+	"GLGraphics.h"
+
+1297574756 c:\users\patrick\documents\programming\modular ship\playership.h
+	"Ship.h"
+
+1297630973 source:c:\users\patrick\documents\programming\modular ship\mods.cpp
+	"Mods.h"
+
+1297547609 source:c:\users\patrick\documents\programming\modular ship\particle.cpp
+	"Particle.h"
+
+1297621480 source:c:\users\patrick\documents\programming\modular ship\playership.cpp
+	"PlayerShip.h"
+
+1297547609 source:c:\users\patrick\documents\programming\modular ship\powerbar.cpp
+	"PowerBar.h"
+
+1297574756 source:c:\users\patrick\documents\programming\modular ship\ship.cpp
+	"Ship.h"
+
+1297624160 source:c:\users\patrick\documents\programming\modular ship\aiship.cpp
+	"aiShip.h"
+
+1297631836 source:c:\users\patrick\documents\programming\modular ship\main.cpp
+	"GLGraphics.h"
+	"Game.h"
+	"GLText.h"
+
+976688572 c:\users\patrick\documents\programming\modular ship\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1297645258 source:c:\users\patrick\documents\programming\modular ship\gamesequences.cpp
+	"Game.h"
+
+1297645258 source:c:\users\patrick\documents\programming\modular ship\gamemenus.cpp
+	"Game.h"
+
+1297645258 source:c:\users\patrick\documents\programming\modular ship\gamelevelloader.cpp
+	"Game.h"
+	<fstream>
+
+1297645258 c:\users\patrick\documents\programming\modular ship\gamestructs.h
+
+1297814070 source:j:\programming\modular ship\bullets.cpp
+	"bullets.h"
+
+1297813342 j:\programming\modular ship\bullets.h
+	"GLGraphics.h"
+	"vector2.h"
+	"Collision.h"
+	"Debug.h"
+	<deque>
+	<cmath>
+
+1297804982 j:\programming\modular ship\glgraphics.h
+	<SDL.h>
+	<SDL_image.h>
+	"GLee.h"
+	<SDL_opengl.h>
+	<gl/gl.h>
+	<gl/glu.h>
+	"Glut.h"
+	<gl/glext.h>
+	<string>
+	<SDL_gfxPrimitives.h>
+	<ctime>
+	"Util.h"
+
+1234057582 j:\programming\modular ship\glee.h
+	<windows.h>
+	<GL/gl.h>
+	<OpenGL/gl.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	<stddef.h>
+
+976688572 j:\programming\modular ship\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1296620334 j:\programming\modular ship\vector2.h
+	<cmath>
+
+1296852234 j:\programming\modular ship\collision.h
+	"vector2.h"
+	<cmath>
+	<SDL.h>
+	<SDL_image.h>
+
+1297795922 j:\programming\modular ship\debug.h
+	<SDL.h>
+	"GLGraphics.h"
+	"GLText.h"
+	<fstream>
+	<vector>
+
+1297544670 j:\programming\modular ship\gltext.h
+
+1296880420 source:j:\programming\modular ship\collision.cpp
+	"Collision.h"
+
+1297544842 source:j:\programming\modular ship\debug.cpp
+	"Debug.h"
+
+1296937744 source:j:\programming\modular ship\glgraphics.cpp
+	"GLGraphics.h"
+
+1297564890 source:j:\programming\modular ship\gltext.cpp
+	"GLText.h"
+	"GLGraphics.h"
+
+1234057582 source:j:\programming\modular ship\glee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"GLee.h"
+	<Carbon/Carbon.h>
+
+1297814070 source:j:\programming\modular ship\game.cpp
+	"Game.h"
+
+1297799232 j:\programming\modular ship\game.h
+	"Debug.h"
+	"Util.h"
+	"Particle.h"
+	<vector>
+	<string>
+	"GameStructs.h"
+	"aiShip.h"
+	"PlayerShip.h"
+	"GLText.h"
+
+1297628812 j:\programming\modular ship\util.h
+	<stdlib.h>
+	<math.h>
+	<sstream>
+	<string>
+
+1297696412 j:\programming\modular ship\particle.h
+	"vector2.h"
+	"vector3.h"
+	"GLGraphics.h"
+	"Debug.h"
+	"Util.h"
+	<deque>
+	<algorithm>
+
+1296618064 j:\programming\modular ship\vector3.h
+	<cmath>
+
+1297798312 j:\programming\modular ship\gamestructs.h
+
+1297812576 j:\programming\modular ship\aiship.h
+	"Ship.h"
+	"Util.h"
+
+1297810134 j:\programming\modular ship\ship.h
+	"Mods.h"
+	"DamageMod.h"
+	"ShieldMod.h"
+	"BubbleMod.h"
+	"PowerBar.h"
+	"Bullets.h"
+	"Particle.h"
+	<vector>
+
+1297804876 j:\programming\modular ship\mods.h
+	"GLGraphics.h"
+	"Debug.h"
+	"Bullets.h"
+	"vector2.h"
+	"vector3.h"
+	"GLText.h"
+
+1297547610 j:\programming\modular ship\powerbar.h
+	"GLGraphics.h"
+
+1297798274 j:\programming\modular ship\playership.h
+	"Ship.h"
+
+1297699974 source:j:\programming\modular ship\gamelevelloader.cpp
+	"Game.h"
+	<fstream>
+
+1297697554 source:j:\programming\modular ship\gamemenus.cpp
+	"Game.h"
+
+1297796616 source:j:\programming\modular ship\gamesequences.cpp
+	"Game.h"
+
+1297795852 source:j:\programming\modular ship\mods.cpp
+	"Mods.h"
+
+1297814760 source:j:\programming\modular ship\particle.cpp
+	"Particle.h"
+
+1297814632 source:j:\programming\modular ship\playership.cpp
+	"PlayerShip.h"
+
+1297547610 source:j:\programming\modular ship\powerbar.cpp
+	"PowerBar.h"
+
+1297574758 source:j:\programming\modular ship\ship.cpp
+	"Ship.h"
+
+1297814308 source:j:\programming\modular ship\aiship.cpp
+	"aiShip.h"
+
+1297796696 source:j:\programming\modular ship\main.cpp
+	"GLGraphics.h"
+	"Game.h"
+	"GLText.h"
+
+976688572 i:\programming\modular ship\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1297798312 i:\programming\modular ship\gamestructs.h
+
+1297699974 source:i:\programming\modular ship\gamelevelloader.cpp
+	"Game.h"
+	<fstream>
+
+1297697554 source:i:\programming\modular ship\gamemenus.cpp
+	"Game.h"
+
+1297796616 source:i:\programming\modular ship\gamesequences.cpp
+	"Game.h"
+
+1297795758 source:i:\programming\modular ship\damagemod.cpp
+	"DamageMod.h"
+
+1297795758 i:\programming\modular ship\damagemod.h
+	"Mods.h"
+
+1297795852 i:\programming\modular ship\shieldmod.h
+	"Mods.h"
+
+1297795852 source:i:\programming\modular ship\shieldmod.cpp
+	"ShieldMod.h"
+
+1297804894 source:i:\programming\modular ship\bubblemod.cpp
+	"BubbleMod.h"
+
+1297804856 i:\programming\modular ship\bubblemod.h
+	"Mods.h"
+
+1297813046 source:j:\programming\modular ship\bubblemod.cpp
+	"BubbleMod.h"
+
+1297804856 j:\programming\modular ship\bubblemod.h
+	"Mods.h"
+
+1297795758 source:j:\programming\modular ship\damagemod.cpp
+	"DamageMod.h"
+
+1297795758 j:\programming\modular ship\damagemod.h
+	"Mods.h"
+
+1297795852 j:\programming\modular ship\shieldmod.h
+	"Mods.h"
+
+1297795852 source:j:\programming\modular ship\shieldmod.cpp
+	"ShieldMod.h"
+
+1298253114 source:j:\programming\sdlgl_experiments\particle2d\glgraphics.cpp
+	"GLGraphics.h"
+
+1297804982 j:\programming\sdlgl_experiments\particle2d\glgraphics.h
+	<SDL.h>
+	<SDL_image.h>
+	"GLee.h"
+	<SDL_opengl.h>
+	<gl/gl.h>
+	<gl/glu.h>
+	"Glut.h"
+	<gl/glext.h>
+	<string>
+	<SDL_gfxPrimitives.h>
+	<ctime>
+	"Util.h"
+
+1234057582 j:\programming\sdlgl_experiments\particle2d\glee.h
+	<windows.h>
+	<GL/gl.h>
+	<OpenGL/gl.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	<stddef.h>
+
+976688572 j:\programming\sdlgl_experiments\particle2d\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1297628812 j:\programming\sdlgl_experiments\particle2d\util.h
+	<stdlib.h>
+	<math.h>
+	<sstream>
+	<string>
+
+1297564890 source:j:\programming\sdlgl_experiments\particle2d\gltext.cpp
+	"GLText.h"
+	"GLGraphics.h"
+
+1297544670 j:\programming\sdlgl_experiments\particle2d\gltext.h
+
+1234057582 source:j:\programming\sdlgl_experiments\particle2d\glee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"GLee.h"
+	<Carbon/Carbon.h>
+
+1295895974 source:j:\programming\sdlgl_experiments\particle2d\glvertex.cpp
+
+1297795852 source:j:\programming\sdlgl_experiments\particle2d\mods.cpp
+	"Mods.h"
+
+1297804876 j:\programming\sdlgl_experiments\particle2d\mods.h
+	"GLGraphics.h"
+	"Debug.h"
+	"Bullets.h"
+	"vector2.h"
+	"vector3.h"
+	"GLText.h"
+
+1297795922 j:\programming\sdlgl_experiments\particle2d\debug.h
+	<SDL.h>
+	"GLGraphics.h"
+	"GLText.h"
+	<fstream>
+	<vector>
+
+1296620334 j:\programming\sdlgl_experiments\particle2d\vector2.h
+	<cmath>
+
+1296618064 j:\programming\sdlgl_experiments\particle2d\vector3.h
+	<cmath>
+
+1298254280 source:j:\programming\sdlgl_experiments\particle2d\particle.cpp
+	"Particle.h"
+
+1298254280 j:\programming\sdlgl_experiments\particle2d\particle.h
+	"vector2.h"
+	"vector3.h"
+	"GLGraphics.h"
+	"Debug.h"
+	"Util.h"
+	<deque>
+	<algorithm>
+
+1298251708 source:j:\programming\sdlgl_experiments\particle2d\debug.cpp
+	"Debug.h"
+
+1298254454 source:j:\programming\sdlgl_experiments\particle2d\main.cpp
+	"GLGraphics.h"
+	"Particle.h"
+	"GLText.h"
+
+1298837316 source:j:\programming\sdlgl_experiments\2dlight\glgraphics.cpp
+	"GLGraphics.h"
+
+1298836598 j:\programming\sdlgl_experiments\2dlight\glgraphics.h
+	<SDL.h>
+	<SDL_image.h>
+	"GLee.h"
+	<SDL_opengl.h>
+	<gl/gl.h>
+	<gl/glu.h>
+	"Glut.h"
+	<gl/glext.h>
+	<string>
+	<ctime>
+	"Util.h"
+
+1234061182 j:\programming\sdlgl_experiments\2dlight\glee.h
+	<windows.h>
+	<GL/gl.h>
+	<OpenGL/gl.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	<stddef.h>
+
+976692172 j:\programming\sdlgl_experiments\2dlight\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1297632412 j:\programming\sdlgl_experiments\2dlight\util.h
+	<stdlib.h>
+	<math.h>
+	<sstream>
+	<string>
+
+1298583372 source:j:\programming\sdlgl_experiments\2dlight\gltext.cpp
+	"GLText.h"
+	"GLGraphics.h"
+
+1297548270 j:\programming\sdlgl_experiments\2dlight\gltext.h
+
+1234061182 source:j:\programming\sdlgl_experiments\2dlight\glee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"GLee.h"
+	<Carbon/Carbon.h>
+
+1295899574 source:j:\programming\sdlgl_experiments\2dlight\glvertex.cpp
+
+1297795852 source:j:\programming\sdlgl_experiments\2dlight\mods.cpp
+	"Mods.h"
+
+1297804876 j:\programming\sdlgl_experiments\2dlight\mods.h
+	"GLGraphics.h"
+	"Debug.h"
+	"Bullets.h"
+	"vector2.h"
+	"vector3.h"
+	"GLText.h"
+
+1297799522 j:\programming\sdlgl_experiments\2dlight\debug.h
+	<SDL.h>
+	"GLGraphics.h"
+	"GLText.h"
+	<fstream>
+	<vector>
+
+1298904206 j:\programming\sdlgl_experiments\2dlight\vector2.h
+	<cmath>
+
+1296621664 j:\programming\sdlgl_experiments\2dlight\vector3.h
+	<cmath>
+
+1298613902 source:j:\programming\sdlgl_experiments\2dlight\particle.cpp
+	"Particle.h"
+
+1298586616 j:\programming\sdlgl_experiments\2dlight\particle.h
+	"vector2.h"
+	"vector3.h"
+	"GLGraphics.h"
+	"Debug.h"
+	"Util.h"
+	<deque>
+	<algorithm>
+
+1298255308 source:j:\programming\sdlgl_experiments\2dlight\debug.cpp
+	"Debug.h"
+
+1305584034 source:j:\programming\sdlgl_experiments\2dlight\main.cpp
+	"GLGraphics.h"
+	"Particle.h"
+	"GLText.h"
+	"gl2dLight.h"
+
+1298837316 source:e:\programming\sdlgl_experiments\2dlight\glgraphics.cpp
+	"GLGraphics.h"
+
+1298836598 e:\programming\sdlgl_experiments\2dlight\glgraphics.h
+	<SDL.h>
+	<SDL_image.h>
+	"GLee.h"
+	<SDL_opengl.h>
+	<gl/gl.h>
+	<gl/glu.h>
+	"Glut.h"
+	<gl/glext.h>
+	<string>
+	<ctime>
+	"Util.h"
+
+1234061182 e:\programming\sdlgl_experiments\2dlight\glee.h
+	<windows.h>
+	<GL/gl.h>
+	<OpenGL/gl.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	<stddef.h>
+
+976692172 e:\programming\sdlgl_experiments\2dlight\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1297632412 e:\programming\sdlgl_experiments\2dlight\util.h
+	<stdlib.h>
+	<math.h>
+	<sstream>
+	<string>
+
+1298583372 source:e:\programming\sdlgl_experiments\2dlight\gltext.cpp
+	"GLText.h"
+	"GLGraphics.h"
+
+1297548270 e:\programming\sdlgl_experiments\2dlight\gltext.h
+
+1234061182 source:e:\programming\sdlgl_experiments\2dlight\glee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"GLee.h"
+	<Carbon/Carbon.h>
+
+1295899574 source:e:\programming\sdlgl_experiments\2dlight\glvertex.cpp
+
+1297795852 source:e:\programming\sdlgl_experiments\2dlight\mods.cpp
+	"Mods.h"
+
+1297804876 e:\programming\sdlgl_experiments\2dlight\mods.h
+	"GLGraphics.h"
+	"Debug.h"
+	"Bullets.h"
+	"vector2.h"
+	"vector3.h"
+	"GLText.h"
+
+1297799522 e:\programming\sdlgl_experiments\2dlight\debug.h
+	<SDL.h>
+	"GLGraphics.h"
+	"GLText.h"
+	<fstream>
+	<vector>
+
+1298904206 e:\programming\sdlgl_experiments\2dlight\vector2.h
+	<cmath>
+
+1296621664 e:\programming\sdlgl_experiments\2dlight\vector3.h
+	<cmath>
+
+1298613902 source:e:\programming\sdlgl_experiments\2dlight\particle.cpp
+	"Particle.h"
+
+1298586616 e:\programming\sdlgl_experiments\2dlight\particle.h
+	"vector2.h"
+	"vector3.h"
+	"GLGraphics.h"
+	"Debug.h"
+	"Util.h"
+	<deque>
+	<algorithm>
+
+1299080848 source:e:\programming\sdlgl_experiments\2dlight\main.cpp
+	"GLGraphics.h"
+	"Particle.h"
+	"GLText.h"
+	"gl2dLight.h"
+
+1298255308 source:e:\programming\sdlgl_experiments\2dlight\debug.cpp
+	"Debug.h"
+
+1298833716 source:i:\programming\sdlgl_experiments\2dlight\glgraphics.cpp
+	"GLGraphics.h"
+
+1298832998 i:\programming\sdlgl_experiments\2dlight\glgraphics.h
+	<SDL.h>
+	<SDL_image.h>
+	"GLee.h"
+	<SDL_opengl.h>
+	<gl/gl.h>
+	<gl/glu.h>
+	"Glut.h"
+	<gl/glext.h>
+	<string>
+	<ctime>
+	"Util.h"
+
+1234057582 i:\programming\sdlgl_experiments\2dlight\glee.h
+	<windows.h>
+	<GL/gl.h>
+	<OpenGL/gl.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	<stddef.h>
+
+976688572 i:\programming\sdlgl_experiments\2dlight\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1297628812 i:\programming\sdlgl_experiments\2dlight\util.h
+	<stdlib.h>
+	<math.h>
+	<sstream>
+	<string>
+
+1298579772 source:i:\programming\sdlgl_experiments\2dlight\gltext.cpp
+	"GLText.h"
+	"GLGraphics.h"
+
+1297544670 i:\programming\sdlgl_experiments\2dlight\gltext.h
+
+1234057582 source:i:\programming\sdlgl_experiments\2dlight\glee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"GLee.h"
+	<Carbon/Carbon.h>
+
+1295895974 source:i:\programming\sdlgl_experiments\2dlight\glvertex.cpp
+
+1298610302 source:i:\programming\sdlgl_experiments\2dlight\particle.cpp
+	"Particle.h"
+
+1298583016 i:\programming\sdlgl_experiments\2dlight\particle.h
+	"vector2.h"
+	"vector3.h"
+	"GLGraphics.h"
+	"Debug.h"
+	"Util.h"
+	<deque>
+	<algorithm>
+
+1298900606 i:\programming\sdlgl_experiments\2dlight\vector2.h
+	<cmath>
+
+1296618064 i:\programming\sdlgl_experiments\2dlight\vector3.h
+	<cmath>
+
+1297795922 i:\programming\sdlgl_experiments\2dlight\debug.h
+	<SDL.h>
+	"GLGraphics.h"
+	"GLText.h"
+	<fstream>
+	<vector>
+
+1299077248 source:i:\programming\sdlgl_experiments\2dlight\main.cpp
+	"GLGraphics.h"
+	"Particle.h"
+	"GLText.h"
+	"gl2dLight.h"
+
+1298251708 source:i:\programming\sdlgl_experiments\2dlight\debug.cpp
+	"Debug.h"
+
+1299130630 source:j:\programming\sdlgl_experiments\2dlight\gl2dlight.cpp
+	"gl2dLight.h"
+
+1299013386 j:\programming\sdlgl_experiments\2dlight\gl2dlight.h
+	"GLGraphics.h"
+	"Debug.h"
+	"GLText.h"
+	"vector2.h"
+	"vector3.h"
+	<vector>
+
+1299130630 source:e:\programming\sdlgl_experiments\2dlight\gl2dlight.cpp
+	"gl2dLight.h"
+
+1299013386 e:\programming\sdlgl_experiments\2dlight\gl2dlight.h
+	"GLGraphics.h"
+	"Debug.h"
+	"GLText.h"
+	"vector2.h"
+	"vector3.h"
+	<vector>
+
+1299127030 source:i:\programming\sdlgl_experiments\2dlight\gl2dlight.cpp
+	"gl2dLight.h"
+
+1299009786 i:\programming\sdlgl_experiments\2dlight\gl2dlight.h
+	"GLGraphics.h"
+	"Debug.h"
+	"GLText.h"
+	"vector2.h"
+	"vector3.h"
+	<vector>
+
+1299250816 source:e:\programming\sdlgl_experiments\2dlight\collision.cpp
+	"Collision.h"
+
+1297026580 e:\programming\sdlgl_experiments\2dlight\collision.h
+	"vector2.h"
+	"Debug.h"
+	<cmath>
+	<SDL.h>
+	<SDL_image.h>
+
+1299247216 source:i:\programming\sdlgl_experiments\2dlight\collision.cpp
+	"Collision.h"
+
+1297022980 i:\programming\sdlgl_experiments\2dlight\collision.h
+	"vector2.h"
+	"Debug.h"
+	<cmath>
+	<SDL.h>
+	<SDL_image.h>
+
+1299250816 source:c:\users\patrick\documents\programming\sdlgl_experiments\2dlight\collision.cpp
+	"Collision.h"
+
+1297026580 c:\users\patrick\documents\programming\sdlgl_experiments\2dlight\collision.h
+	"vector2.h"
+	"Debug.h"
+	<cmath>
+	<SDL.h>
+	<SDL_image.h>
+
+1298904206 c:\users\patrick\documents\programming\sdlgl_experiments\2dlight\vector2.h
+	<cmath>
+
+1297799522 c:\users\patrick\documents\programming\sdlgl_experiments\2dlight\debug.h
+	<SDL.h>
+	"GLGraphics.h"
+	"GLText.h"
+	<fstream>
+	<vector>
+
+1298836598 c:\users\patrick\documents\programming\sdlgl_experiments\2dlight\glgraphics.h
+	<SDL.h>
+	<SDL_image.h>
+	"GLee.h"
+	<SDL_opengl.h>
+	<gl/gl.h>
+	<gl/glu.h>
+	"Glut.h"
+	<gl/glext.h>
+	<string>
+	<ctime>
+	"Util.h"
+
+1234061182 c:\users\patrick\documents\programming\sdlgl_experiments\2dlight\glee.h
+	<windows.h>
+	<GL/gl.h>
+	<OpenGL/gl.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	<stddef.h>
+
+976692172 c:\users\patrick\documents\programming\sdlgl_experiments\2dlight\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1297632412 c:\users\patrick\documents\programming\sdlgl_experiments\2dlight\util.h
+	<stdlib.h>
+	<math.h>
+	<sstream>
+	<string>
+
+1297548270 c:\users\patrick\documents\programming\sdlgl_experiments\2dlight\gltext.h
+
+1298255308 source:c:\users\patrick\documents\programming\sdlgl_experiments\2dlight\debug.cpp
+	"Debug.h"
+
+1298837316 source:c:\users\patrick\documents\programming\sdlgl_experiments\2dlight\glgraphics.cpp
+	"GLGraphics.h"
+
+1298583372 source:c:\users\patrick\documents\programming\sdlgl_experiments\2dlight\gltext.cpp
+	"GLText.h"
+	"GLGraphics.h"
+
+1234061182 source:c:\users\patrick\documents\programming\sdlgl_experiments\2dlight\glee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"GLee.h"
+	<Carbon/Carbon.h>
+
+1295899574 source:c:\users\patrick\documents\programming\sdlgl_experiments\2dlight\glvertex.cpp
+
+1298613902 source:c:\users\patrick\documents\programming\sdlgl_experiments\2dlight\particle.cpp
+	"Particle.h"
+
+1298586616 c:\users\patrick\documents\programming\sdlgl_experiments\2dlight\particle.h
+	"vector2.h"
+	"vector3.h"
+	"GLGraphics.h"
+	"Debug.h"
+	"Util.h"
+	<deque>
+	<algorithm>
+
+1296621664 c:\users\patrick\documents\programming\sdlgl_experiments\2dlight\vector3.h
+	<cmath>
+
+1299130630 source:c:\users\patrick\documents\programming\sdlgl_experiments\2dlight\gl2dlight.cpp
+	"gl2dLight.h"
+
+1299013386 c:\users\patrick\documents\programming\sdlgl_experiments\2dlight\gl2dlight.h
+	"GLGraphics.h"
+	"Debug.h"
+	"GLText.h"
+	"vector2.h"
+	"vector3.h"
+	<vector>
+
+1299080848 source:c:\users\patrick\documents\programming\sdlgl_experiments\2dlight\main.cpp
+	"GLGraphics.h"
+	"Particle.h"
+	"GLText.h"
+	"gl2dLight.h"
+
+1299250816 source:j:\programming\sdlgl_experiments\2dlight\collision.cpp
+	"Collision.h"
+
+1297026580 j:\programming\sdlgl_experiments\2dlight\collision.h
+	"vector2.h"
+	"Debug.h"
+	<cmath>
+	<SDL.h>
+	<SDL_image.h>
+

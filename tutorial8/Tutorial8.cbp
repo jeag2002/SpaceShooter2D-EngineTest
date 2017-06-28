@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Tutorial8" />
+		<Option makefile="makefile" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug Win32">
+				<Option output="Tutorial8" prefix_auto="1" extension_auto="1" />
+				<Option object_output="Debug Win32" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-std=c++98" />
+					<Add option="-Wextra" />
+					<Add option="-Wall" />
+					<Add option="-g" />
+					<Add option="-DWIN32" />
+					<Add option="-D_DEBUG" />
+					<Add option="-D_WINDOWS" />
+					<Add directory="C:/workspaces/libs/KHR/include" />
+					<Add directory="C:/workspaces/libs/OPENGLES-1.5/PowerVR/includes" />
+				</Compiler>
+				<Linker>
+					<Add option="-lmingw32" />
+					<Add option="-llibEGL" />
+					<Add option="-llibgles_cl" />
+					<Add option="-llibgles_cm" />
+					<Add option="-llibGLESv1_CM" />
+					<Add library="C:\workspaces\libs\OPENGLES-1.5\PowerVR\Libs\EGL\libEGL.lib" />
+					<Add library="C:\workspaces\libs\OPENGLES-1.5\PowerVR\Libs\libGLES\libgles_cl.lib" />
+					<Add library="C:\workspaces\libs\OPENGLES-1.5\PowerVR\Libs\libGLES\libgles_cm.lib" />
+					<Add library="C:\workspaces\libs\OPENGLES-1.5\PowerVR\Libs\libGLES\libGLESv1_CM.lib" />
+					<Add directory="C:/workspaces/libs/OPENGLES-1.5/PowerVR/Libs/EGL" />
+					<Add directory="C:/workspaces/libs/OPENGLES-1.5/PowerVR/Libs/libGLES" />
+				</Linker>
+			</Target>
+			<Target title="Release Win32">
+				<Option output="Tutorial8" prefix_auto="1" extension_auto="1" />
+				<Option object_output="Release Win32" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-DWIN32" />
+					<Add option="-DNDEBUG" />
+					<Add option="-D_WINDOWS" />
+					<Add option="-W" />
+					<Add option="-O2" />
+					<Add directory="D:/Dev/opengl/include" />
+				</Compiler>
+				<ResourceCompiler>
+					<Add directory="D:/Dev/opengl/include" />
+				</ResourceCompiler>
+				<Linker>
+					<Add library="libgles_cl" />
+					<Add directory="D:/Dev/opengl/lib" />
+				</Linker>
+			</Target>
+		</Build>
+		<Unit filename="Arena.cpp" />
+		<Unit filename="Arena.h" />
+		<Unit filename="Bullet.cpp" />
+		<Unit filename="Bullet.h" />
+		<Unit filename="ExplosionPS.cpp" />
+		<Unit filename="ExplosionPS.h" />
+		<Unit filename="ExplosionParticle.cpp" />
+		<Unit filename="ExplosionParticle.h" />
+		<Unit filename="FixedTrig.cpp" />
+		<Unit filename="FixedTrig.h" />
+		<Unit filename="GLControl.cpp" />
+		<Unit filename="GLControl.h" />
+		<Unit filename="GameContext.cpp" />
+		<Unit filename="GameContext.h" />
+		<Unit filename="GameObject.cpp" />
+		<Unit filename="GameObject.h" />
+		<Unit filename="Heart.cpp" />
+		<Unit filename="Heart.h" />
+		<Unit filename="Input.cpp" />
+		<Unit filename="Input.h" />
+		<Unit filename="ObjectManager.cpp" />
+		<Unit filename="ObjectManager.h" />
+		<Unit filename="ObjectTypes.h" />
+		<Unit filename="Player.cpp" />
+		<Unit filename="Player.h" />
+		<Unit filename="Rocket.cpp" />
+		<Unit filename="Rocket.h" />
+		<Unit filename="RocketMan.cpp" />
+		<Unit filename="RocketMan.h" />
+		<Unit filename="SmokePS.cpp" />
+		<Unit filename="SmokePS.h" />
+		<Unit filename="SmokeParticle.cpp" />
+		<Unit filename="SmokeParticle.h" />
+		<Unit filename="TextureManager.cpp" />
+		<Unit filename="TextureManager.h" />
+		<Unit filename="TexturedObject.cpp" />
+		<Unit filename="TexturedObject.h" />
+		<Unit filename="VBOAllocator.cpp" />
+		<Unit filename="VBOAllocator.h" />
+		<Unit filename="defines.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="media/gfx/arena.bmp" />
+		<Unit filename="media/gfx/boss.bmp" />
+		<Unit filename="media/gfx/bullet.bmp" />
+		<Unit filename="media/gfx/circle32.bmp" />
+		<Unit filename="media/gfx/cloud.bmp" />
+		<Unit filename="media/gfx/green32.bmp" />
+		<Unit filename="media/gfx/heart-alpha.bmp" />
+		<Unit filename="media/gfx/heart.bmp" />
+		<Unit filename="media/gfx/player.bmp" />
+		<Unit filename="media/gfx/rocket-a.bmp" />
+		<Unit filename="media/gfx/rocket.bmp" />
+		<Unit filename="media/gfx/smoke.bmp" />
+		<Unit filename="media/gfx/white16.bmp" />
+		<Unit filename="media/gfx/white64.bmp" />
+		<Unit filename="readme.txt" />
+		<Unit filename="text.cpp" />
+		<Unit filename="text.h" />
+		<Unit filename="textures.h" />
+		<Unit filename="wiz.cpp" />
+		<Unit filename="wiz.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

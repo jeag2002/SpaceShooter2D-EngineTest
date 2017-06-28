@@ -1,0 +1,84 @@
+*** AUDIORACE ***   
+
+1. DESCRIPTION
+==============
+Audiorace is a music based game similar to the popular 'Audiosurf'.
+It analyzes the songs of your choice and creates a unique track to ride on.
+The goal of the game is simple but encouraging: choose your song and beat your
+own hiscore!
+
+That you're able to start immediately, I've added 3 songs which are released
+under creative commons licenses. These are 2 from Nine Inch Nails (1000000 
+and Discipline) and 1 from a german band called Pornophonique (Space Invaders).
+
+
+2. IMPORTANT NOTE
+=================
+I've programmed this game using firmware 1.1.0 and did all my tests using this
+version! As opengles lib i use the one from the 1.2.0 firmware because it seems
+it has some good optimizations in it.
+If it doesnt start you might try another opengles lib first by copying the files
+from the Libs/ subfolder to the game's folder. 
+Try http://dl.openhandhelds.org/cgi-bin/wiz.cgi if you can't find a working one.  
+
+
+3. HOW TO ADD SONGS
+===================
+If you're not happy with my song selection, you can of course add songs of your
+choice! It's simple: just copy some music into the Music/ subdirectory (or any
+other folder, a browser is included).
+Audiorace will analyze the song the first time it is played (sorry, this may 
+take some time,  FFT is used!) and saves the result for later reuse.
+
+At the moment only OGG files are supported!!! Don't want to get in the hell
+with all that MP3 licensing issues...
+
+I recommend 44khz encoded files. I've tried different stereos with songlengths 
+from 3 upto 5 minutes and they worked fine for me. But you never know... 
+                                                                 
+4. CONTROLS
+===========
+The controls are explained within the game. Each part of the game has it's own
+help screen which can be shown (and hidden again) by pressing the left shoulder
+button.
+Volume buttons control the volume of course.
+
+
+5. THIRDPARTY STUFF USED
+========================
+* kissfft: http://sourceforge.net/projects/kissfft/
+* SDL_mixer
+* libpng
+* libz
+* ogg/vorbis
+* mersenne twister: http://www.math.sci.hiroshima-u.ac.jp/~m-mat/MT/emt.html
+
+Hope i didn't forget any important, i'm in a 'hurry' finishing this text ... so 
+if i missed something, pls contact me.
+
+6. LICENSES
+===========
+Nine Inch Nails Songs (http://www.nin.com/)
+http://creativecommons.org/licenses/by-nc-sa/3.0/us/legalcode
+
+Pornophonique Song (http://www.pornophonique.de/)
+http://creativecommons.org/licenses/by-nc-nd/2.0/de/
+
+                            
+7. CONTACT
+==========
+If you want to contact me, send PM to crow_riot on the gp32x.com forums
+(http://gp32x.com/)
+
+
+8. THANKS
+===========
+Thanks fly out to everyone at the gp32x.com forum, notably lorgy77 for
+organizing PACC - without the compo this game wouldn't exist.
+ 
+I'd also like to thank acegraph for creating the oustanding graphics.
+Without him it would look like a piece of sh*t (i mean, "programmer's art" ;))
+
+And last but not least, thanks to my GF, who had some tough time with me while I
+was making this, but has 'survived' it! :)
+

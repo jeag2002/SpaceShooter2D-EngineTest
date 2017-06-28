@@ -1,0 +1,1 @@
+imagen floor1.bmp cargada correctamente! uid 1imagen testImage.bmp cargada correctamente! uid 2

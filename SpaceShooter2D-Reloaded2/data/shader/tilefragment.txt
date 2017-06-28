@@ -1,0 +1,19 @@
+#version 300 es
+uniform sampler2D sampler2d;
+in mediump vec2 myTexCoord;
+layout (location = 0) out lowp vec4 oColour;
+void main (void)
+{
+lowp vec4 oColour_1 = texture(sampler2d,myTexCoord);
+lowp float var_R = float(oColour_1.r); 
+lowp float var_G = float(oColour_1.g); 
+lowp float var_B = float(oColour_1.b);
+
+if ( (var_R == 0.0) && (var_G == 0.0) && (var_B == 0.0) )
+{
+	oColour = vec4(var_R,var_G,var_B,0.0);
+}else
+{
+	oColour = vec4(var_R,var_G,var_B,1.0);
+}
+}

@@ -1,0 +1,462 @@
+# depslib dependency file v1.0
+1251052476 source:c:\workspaces\development\workcodeblocks\tutorial8\arena.cpp
+	"Arena.h"
+	"VBOAllocator.h"
+
+1251052406 c:\workspaces\development\workcodeblocks\tutorial8\arena.h
+	"texturedobject.h"
+
+1251052406 c:\workspaces\development\workcodeblocks\tutorial8\texturedobject.h
+	"GameObject.h"
+	"Textures.h"
+	"FixedTrig.h"
+
+1439767593 c:\workspaces\development\workcodeblocks\tutorial8\gameobject.h
+	"defines.h"
+	<GLES/gl.h>
+	"ObjectTypes.h"
+	"FixedTrig.h"
+
+1251052300 c:\workspaces\development\workcodeblocks\tutorial8\defines.h
+
+1240325844 c:\workspaces\libs\opengles-1.5\powervr\includes\gles\gl.h
+	<GLES/glplatform.h>
+
+1240325844 c:\workspaces\libs\opengles-1.5\powervr\includes\gles\glplatform.h
+	<KHR/khrplatform.h>
+
+1312461182 c:\workspaces\libs\khr\include\khr\khrplatform.h
+
+1251052406 c:\workspaces\development\workcodeblocks\tutorial8\objecttypes.h
+
+1251052334 c:\workspaces\development\workcodeblocks\tutorial8\fixedtrig.h
+	"defines.h"
+
+1251052406 c:\workspaces\development\workcodeblocks\tutorial8\textures.h
+
+1251052406 c:\workspaces\development\workcodeblocks\tutorial8\vboallocator.h
+	<gles/gl.h>
+
+1251052476 source:c:\workspaces\development\workcodeblocks\tutorial8\bullet.cpp
+	"Bullet.h"
+	"VBOAllocator.h"
+	<math.h>
+
+1251052296 c:\workspaces\development\workcodeblocks\tutorial8\bullet.h
+	"TexturedObject.h"
+	"GameContext.h"
+
+1251052406 c:\workspaces\development\workcodeblocks\tutorial8\gamecontext.h
+	"TextureManager.h"
+	"ObjectManager.h"
+	"Input.h"
+
+1251052406 c:\workspaces\development\workcodeblocks\tutorial8\texturemanager.h
+	<GLES/gl.h>
+	"textures.h"
+
+1439763852 c:\workspaces\development\workcodeblocks\tutorial8\objectmanager.h
+	<list>
+	<cstddef>
+	"GameObject.h"
+
+1251052406 c:\workspaces\development\workcodeblocks\tutorial8\input.h
+
+1251052476 source:c:\workspaces\development\workcodeblocks\tutorial8\explosionparticle.cpp
+	"ExplosionParticle.h"
+	<stdlib.h>
+	"texturemanager.h"
+	"VBOAllocator.h"
+
+1251052304 c:\workspaces\development\workcodeblocks\tutorial8\explosionparticle.h
+	"TexturedObject.h"
+
+1251052476 source:c:\workspaces\development\workcodeblocks\tutorial8\explosionps.cpp
+	"ExplosionPS.h"
+	"ExplosionParticle.h"
+
+1251052406 c:\workspaces\development\workcodeblocks\tutorial8\explosionps.h
+	"ObjectManager.h"
+
+1251052476 source:c:\workspaces\development\workcodeblocks\tutorial8\fixedtrig.cpp
+	"FixedTrig.h"
+	<stdlib.h>
+	<math.h>
+
+1251052476 source:c:\workspaces\development\workcodeblocks\tutorial8\gamecontext.cpp
+	"GameContext.h"
+
+1251052476 source:c:\workspaces\development\workcodeblocks\tutorial8\gameobject.cpp
+	"GameObject.h"
+	"FixedTrig.h"
+
+1251052476 source:c:\workspaces\development\workcodeblocks\tutorial8\glcontrol.cpp
+	"glcontrol.h"
+	<tchar.h>
+	<iostream>
+	"input.h"
+	"defines.h"
+	"text.h"
+
+1251052406 c:\workspaces\development\workcodeblocks\tutorial8\glcontrol.h
+	<GLES/egl.h>
+	<GLES/gl.h>
+
+1240325844 c:\workspaces\libs\opengles-1.5\powervr\includes\gles\egl.h
+	<EGL/egl.h>
+	<GLES/gl.h>
+
+1240325830 c:\workspaces\libs\opengles-1.5\powervr\includes\egl\egl.h
+	<EGL/eglplatform.h>
+
+1259055544 c:\workspaces\libs\opengles-1.5\powervr\includes\egl\eglplatform.h
+	<KHR/khrplatform.h>
+	<windows.h>
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+
+1251052406 c:\workspaces\development\workcodeblocks\tutorial8\text.h
+	"defines.h"
+
+1251052476 source:c:\workspaces\development\workcodeblocks\tutorial8\heart.cpp
+	"Heart.h"
+	"texturemanager.h"
+	"VBOAllocator.h"
+
+1251052406 c:\workspaces\development\workcodeblocks\tutorial8\heart.h
+	"TexturedObject.h"
+
+1251052476 source:c:\workspaces\development\workcodeblocks\tutorial8\input.cpp
+	"input.h"
+	"wiz.h"
+
+1251052492 c:\workspaces\development\workcodeblocks\tutorial8\wiz.h
+
+1439763914 source:c:\workspaces\development\workcodeblocks\tutorial8\main.cpp
+	<windows.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	"glcontrol.h"
+	"Player.h"
+	"RocketMan.h"
+	"arena.h"
+	"FixedTrig.h"
+	"GameContext.h"
+	"Heart.h"
+	"text.h"
+	"wiz.h"
+	"ExplosionParticle.h"
+	"defines.h"
+
+1251052406 c:\workspaces\development\workcodeblocks\tutorial8\player.h
+	"TexturedObject.h"
+	"GameContext.h"
+
+1251052406 c:\workspaces\development\workcodeblocks\tutorial8\rocketman.h
+	"TexturedObject.h"
+	"GameContext.h"
+
+1251052476 source:c:\workspaces\development\workcodeblocks\tutorial8\objectmanager.cpp
+	"objectmanager.h"
+
+1251052476 source:c:\workspaces\development\workcodeblocks\tutorial8\player.cpp
+	"Player.h"
+	<math.h>
+	"input.h"
+	"bullet.h"
+	"VBOAllocator.h"
+
+1251052476 source:c:\workspaces\development\workcodeblocks\tutorial8\rocket.cpp
+	"Rocket.h"
+	"ExplosionPS.h"
+	"VBOAllocator.h"
+
+1251052406 c:\workspaces\development\workcodeblocks\tutorial8\rocket.h
+	"TexturedObject.h"
+	"SmokePS.h"
+	"GameContext.h"
+
+1251052406 c:\workspaces\development\workcodeblocks\tutorial8\smokeps.h
+	"ObjectManager.h"
+
+1439764016 source:c:\workspaces\development\workcodeblocks\tutorial8\rocketman.cpp
+	"RocketMan.h"
+	<math.h>
+	<stdlib.h>
+	<iostream>
+	"rocket.h"
+	"fixedtrig.h"
+	"ExplosionPS.h"
+	"Arena.h"
+	"Player.h"
+	"VBOAllocator.h"
+
+1251052476 source:c:\workspaces\development\workcodeblocks\tutorial8\smokeparticle.cpp
+	"SmokeParticle.h"
+	<stdlib.h>
+	"texturemanager.h"
+	"VBOAllocator.h"
+
+1251052406 c:\workspaces\development\workcodeblocks\tutorial8\smokeparticle.h
+	"TexturedObject.h"
+
+1251052476 source:c:\workspaces\development\workcodeblocks\tutorial8\smokeps.cpp
+	"SmokePS.h"
+	"texturemanager.h"
+	"SmokeParticle.h"
+
+1251052476 source:c:\workspaces\development\workcodeblocks\tutorial8\text.cpp
+	"text.h"
+	<string.h>
+	<malloc.h>
+	"TexturedObject.h"
+
+1251052476 source:c:\workspaces\development\workcodeblocks\tutorial8\texturedobject.cpp
+	"TexturedObject.h"
+	<stdlib.h>
+	<math.h>
+	"FixedTrig.h"
+	"texturemanager.h"
+
+1251052476 source:c:\workspaces\development\workcodeblocks\tutorial8\texturemanager.cpp
+	"texturemanager.h"
+	<fstream>
+	<iostream>
+	"defines.h"
+
+1251052476 source:c:\workspaces\development\workcodeblocks\tutorial8\vboallocator.cpp
+	"VBOAllocator.h"
+	"defines.h"
+
+1251052492 source:c:\workspaces\development\workcodeblocks\tutorial8\wiz.cpp
+	"wiz.h"
+	<stdint.h>
+	<stdlib.h>
+	<stdio.h>
+	<fcntl.h>
+	<sys/mman.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<string.h>
+
+1251052476 source:c:\workspaces\workcodeblocks\tutorial8\arena.cpp
+	"Arena.h"
+	"VBOAllocator.h"
+
+1251052406 c:\workspaces\workcodeblocks\tutorial8\arena.h
+	"texturedobject.h"
+
+1251052406 c:\workspaces\workcodeblocks\tutorial8\texturedobject.h
+	"GameObject.h"
+	"Textures.h"
+	"FixedTrig.h"
+
+1439767593 c:\workspaces\workcodeblocks\tutorial8\gameobject.h
+	"defines.h"
+	<GLES/gl.h>
+	"ObjectTypes.h"
+	"FixedTrig.h"
+
+1251052300 c:\workspaces\workcodeblocks\tutorial8\defines.h
+
+1251052406 c:\workspaces\workcodeblocks\tutorial8\objecttypes.h
+
+1251052334 c:\workspaces\workcodeblocks\tutorial8\fixedtrig.h
+	"defines.h"
+
+1251052406 c:\workspaces\workcodeblocks\tutorial8\textures.h
+
+1251052406 c:\workspaces\workcodeblocks\tutorial8\vboallocator.h
+	<gles/gl.h>
+
+1251052476 source:c:\workspaces\workcodeblocks\tutorial8\bullet.cpp
+	"Bullet.h"
+	"VBOAllocator.h"
+	<math.h>
+
+1251052296 c:\workspaces\workcodeblocks\tutorial8\bullet.h
+	"TexturedObject.h"
+	"GameContext.h"
+
+1251052406 c:\workspaces\workcodeblocks\tutorial8\gamecontext.h
+	"TextureManager.h"
+	"ObjectManager.h"
+	"Input.h"
+
+1251052406 c:\workspaces\workcodeblocks\tutorial8\texturemanager.h
+	<GLES/gl.h>
+	"textures.h"
+
+1439763852 c:\workspaces\workcodeblocks\tutorial8\objectmanager.h
+	<list>
+	<cstddef>
+	"GameObject.h"
+
+1251052406 c:\workspaces\workcodeblocks\tutorial8\input.h
+
+1251052476 source:c:\workspaces\workcodeblocks\tutorial8\explosionparticle.cpp
+	"ExplosionParticle.h"
+	<stdlib.h>
+	"texturemanager.h"
+	"VBOAllocator.h"
+
+1251052304 c:\workspaces\workcodeblocks\tutorial8\explosionparticle.h
+	"TexturedObject.h"
+
+1251052476 source:c:\workspaces\workcodeblocks\tutorial8\explosionps.cpp
+	"ExplosionPS.h"
+	"ExplosionParticle.h"
+
+1251052406 c:\workspaces\workcodeblocks\tutorial8\explosionps.h
+	"ObjectManager.h"
+
+1251052476 source:c:\workspaces\workcodeblocks\tutorial8\fixedtrig.cpp
+	"FixedTrig.h"
+	<stdlib.h>
+	<math.h>
+
+1251052476 source:c:\workspaces\workcodeblocks\tutorial8\gamecontext.cpp
+	"GameContext.h"
+
+1251052476 source:c:\workspaces\workcodeblocks\tutorial8\gameobject.cpp
+	"GameObject.h"
+	"FixedTrig.h"
+
+1251052476 source:c:\workspaces\workcodeblocks\tutorial8\glcontrol.cpp
+	"glcontrol.h"
+	<tchar.h>
+	<iostream>
+	"input.h"
+	"defines.h"
+	"text.h"
+
+1251052406 c:\workspaces\workcodeblocks\tutorial8\glcontrol.h
+	<GLES/egl.h>
+	<GLES/gl.h>
+
+1251052406 c:\workspaces\workcodeblocks\tutorial8\text.h
+	"defines.h"
+
+1251052476 source:c:\workspaces\workcodeblocks\tutorial8\heart.cpp
+	"Heart.h"
+	"texturemanager.h"
+	"VBOAllocator.h"
+
+1251052406 c:\workspaces\workcodeblocks\tutorial8\heart.h
+	"TexturedObject.h"
+
+1251052476 source:c:\workspaces\workcodeblocks\tutorial8\input.cpp
+	"input.h"
+	"wiz.h"
+
+1251052492 c:\workspaces\workcodeblocks\tutorial8\wiz.h
+
+1439763914 source:c:\workspaces\workcodeblocks\tutorial8\main.cpp
+	<windows.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	"glcontrol.h"
+	"Player.h"
+	"RocketMan.h"
+	"arena.h"
+	"FixedTrig.h"
+	"GameContext.h"
+	"Heart.h"
+	"text.h"
+	"wiz.h"
+	"ExplosionParticle.h"
+	"defines.h"
+
+1251052406 c:\workspaces\workcodeblocks\tutorial8\player.h
+	"TexturedObject.h"
+	"GameContext.h"
+
+1251052406 c:\workspaces\workcodeblocks\tutorial8\rocketman.h
+	"TexturedObject.h"
+	"GameContext.h"
+
+1251052476 source:c:\workspaces\workcodeblocks\tutorial8\objectmanager.cpp
+	"objectmanager.h"
+
+1251052476 source:c:\workspaces\workcodeblocks\tutorial8\player.cpp
+	"Player.h"
+	<math.h>
+	"input.h"
+	"bullet.h"
+	"VBOAllocator.h"
+
+1251052476 source:c:\workspaces\workcodeblocks\tutorial8\rocket.cpp
+	"Rocket.h"
+	"ExplosionPS.h"
+	"VBOAllocator.h"
+
+1251052406 c:\workspaces\workcodeblocks\tutorial8\rocket.h
+	"TexturedObject.h"
+	"SmokePS.h"
+	"GameContext.h"
+
+1251052406 c:\workspaces\workcodeblocks\tutorial8\smokeps.h
+	"ObjectManager.h"
+
+1439764016 source:c:\workspaces\workcodeblocks\tutorial8\rocketman.cpp
+	"RocketMan.h"
+	<math.h>
+	<stdlib.h>
+	<iostream>
+	"rocket.h"
+	"fixedtrig.h"
+	"ExplosionPS.h"
+	"Arena.h"
+	"Player.h"
+	"VBOAllocator.h"
+
+1251052476 source:c:\workspaces\workcodeblocks\tutorial8\smokeparticle.cpp
+	"SmokeParticle.h"
+	<stdlib.h>
+	"texturemanager.h"
+	"VBOAllocator.h"
+
+1251052406 c:\workspaces\workcodeblocks\tutorial8\smokeparticle.h
+	"TexturedObject.h"
+
+1251052476 source:c:\workspaces\workcodeblocks\tutorial8\smokeps.cpp
+	"SmokePS.h"
+	"texturemanager.h"
+	"SmokeParticle.h"
+
+1251052476 source:c:\workspaces\workcodeblocks\tutorial8\text.cpp
+	"text.h"
+	<string.h>
+	<malloc.h>
+	"TexturedObject.h"
+
+1251052476 source:c:\workspaces\workcodeblocks\tutorial8\texturedobject.cpp
+	"TexturedObject.h"
+	<stdlib.h>
+	<math.h>
+	"FixedTrig.h"
+	"texturemanager.h"
+
+1251052476 source:c:\workspaces\workcodeblocks\tutorial8\texturemanager.cpp
+	"texturemanager.h"
+	<fstream>
+	<iostream>
+	"defines.h"
+
+1251052476 source:c:\workspaces\workcodeblocks\tutorial8\vboallocator.cpp
+	"VBOAllocator.h"
+	"defines.h"
+
+1251052492 source:c:\workspaces\workcodeblocks\tutorial8\wiz.cpp
+	"wiz.h"
+	<stdint.h>
+	<stdlib.h>
+	<stdio.h>
+	<fcntl.h>
+	<sys/mman.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<string.h>
+

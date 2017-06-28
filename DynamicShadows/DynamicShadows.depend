@@ -1,0 +1,1199 @@
+# depslib dependency file v1.0
+1328230941 source:c:\workspaces\codeblocks\dynamicshadows\convexhull.cpp
+	<windows.h>
+	"ConvexHull.h"
+	<assert.h>
+	<iostream>
+	<fstream>
+	<sstream>
+
+1295703340 c:\workspaces\codeblocks\dynamicshadows\convexhull.h
+	"SDL_OpenGL.h"
+	"Utilities.h"
+	"Constructs.h"
+	<vector>
+
+1260435348 c:\gph_sdk\dge\include\sdl\sdl_opengl.h
+	"SDL_config.h"
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<gl.h>
+	<glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<windows.h>
+	<stddef.h>
+
+1260435348 c:\gph_sdk\dge\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_amiga.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1260435348 c:\gph_sdk\dge\include\sdl\sdl_platform.h
+
+1260435348 c:\gph_sdk\dge\include\sdl\sdl_config_amiga.h
+	"SDL_platform.h"
+
+1260435348 c:\gph_sdk\dge\include\sdl\sdl_config_dreamcast.h
+	"SDL_platform.h"
+
+1260435348 c:\gph_sdk\dge\include\sdl\sdl_config_macos.h
+	"SDL_platform.h"
+	<MacTypes.h>
+
+1260435348 c:\gph_sdk\dge\include\sdl\sdl_config_macosx.h
+	"SDL_platform.h"
+
+1260435348 c:\gph_sdk\dge\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1260435348 c:\gph_sdk\dge\include\sdl\sdl_config_os2.h
+	"SDL_platform.h"
+
+1260435348 c:\gph_sdk\dge\include\sdl\sdl_config_minimal.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1308790704 c:\gph_sdk\dge\include\gl\glu.h
+	<SDL/SDL_opengles.h>
+	<GLES/gl.h>
+	<GLES\gl.h>
+
+1240325844 c:\gph_sdk\dge\include\gles\gl.h
+	<GLES/glplatform.h>
+
+1240325844 c:\gph_sdk\dge\include\gles\glplatform.h
+	<KHR/khrplatform.h>
+
+1241613004 c:\gph_sdk\dge\include\khr\khrplatform.h
+	<e32def.h>
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+
+1295703298 c:\workspaces\codeblocks\dynamicshadows\utilities.h
+	<fstream>
+	<sstream>
+
+1292837312 c:\workspaces\codeblocks\dynamicshadows\constructs.h
+	<iostream>
+
+1328230935 source:c:\workspaces\codeblocks\dynamicshadows\fpstimer.cpp
+	<windows.h>
+	"FPSTimer.h"
+
+1287833790 c:\workspaces\codeblocks\dynamicshadows\fpstimer.h
+	"SDL.h"
+
+1260435348 c:\gph_sdk\dge\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260435348 c:\gph_sdk\dge\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260435348 c:\gph_sdk\dge\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1260438948 c:\gph_sdk\dge\include\windows\iconv.h
+	"iconv.h"
+	<stddef.h>
+	<errno.h>
+
+1260439250 c:\gph_sdk\dge\include\begin_code.h
+
+1260439250 c:\gph_sdk\dge\include\close_code.h
+
+1260435348 c:\gph_sdk\dge\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260435348 c:\gph_sdk\dge\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260435348 c:\gph_sdk\dge\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260435348 c:\gph_sdk\dge\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260435348 c:\gph_sdk\dge\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1260435348 c:\gph_sdk\dge\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260435348 c:\gph_sdk\dge\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260435348 c:\gph_sdk\dge\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260435348 c:\gph_sdk\dge\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260435348 c:\gph_sdk\dge\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260435348 c:\gph_sdk\dge\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1261116408 c:\gph_sdk\dge\include\sdl\sdl_keysym.h
+
+1260435348 c:\gph_sdk\dge\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260435348 c:\gph_sdk\dge\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"pollux_fb_ioctl.h"
+	"close_code.h"
+
+1260435650 c:\gph_sdk\dge\include\pollux_fb_ioctl.h
+	"pollux_fb_cfg.h"
+
+1260435650 c:\gph_sdk\dge\include\pollux_fb_cfg.h
+
+1260435348 c:\gph_sdk\dge\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260435348 c:\gph_sdk\dge\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1260435348 c:\gph_sdk\dge\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260435348 c:\gph_sdk\dge\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260435348 c:\gph_sdk\dge\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1328230927 source:c:\workspaces\codeblocks\dynamicshadows\light.cpp
+	<windows.h>
+	"Light.h"
+	<assert.h>
+	<cmath>
+
+1328231971 c:\workspaces\codeblocks\dynamicshadows\light.h
+	"SDLOpenGL.h"
+	"Utilities.h"
+	"Constructs.h"
+
+1328300634 c:\workspaces\codeblocks\dynamicshadows\sdlopengl.h
+	"SDL.h"
+	"SDL_opengl.h"
+	"SDL_image.h"
+	"Constructs.h"
+
+1260795420 c:\gph_sdk\include\sdl13\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"SDL_compat.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260795420 c:\gph_sdk\include\sdl13\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260795420 c:\gph_sdk\include\sdl13\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1260795420 c:\gph_sdk\include\sdl13\sdl\sdl_config.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1260795420 c:\gph_sdk\include\sdl13\sdl\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260795420 c:\gph_sdk\include\sdl13\sdl\begin_code.h
+
+1260795420 c:\gph_sdk\include\sdl13\sdl\close_code.h
+
+1260795420 c:\gph_sdk\include\sdl13\sdl\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260795420 c:\gph_sdk\include\sdl13\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260795420 c:\gph_sdk\include\sdl13\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260795420 c:\gph_sdk\include\sdl13\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260795420 c:\gph_sdk\include\sdl13\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260795420 c:\gph_sdk\include\sdl13\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1260795420 c:\gph_sdk\include\sdl13\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260795420 c:\gph_sdk\include\sdl13\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260795420 c:\gph_sdk\include\sdl13\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260795420 c:\gph_sdk\include\sdl13\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260795420 c:\gph_sdk\include\sdl13\sdl\sdl_pixels.h
+	"begin_code.h"
+	"close_code.h"
+
+1260795420 c:\gph_sdk\include\sdl13\sdl\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260795420 c:\gph_sdk\include\sdl13\sdl\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260795420 c:\gph_sdk\include\sdl13\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260795420 c:\gph_sdk\include\sdl13\sdl\sdl_keysym.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1260795420 c:\gph_sdk\include\sdl13\sdl\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1260795420 c:\gph_sdk\include\sdl13\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260795420 c:\gph_sdk\include\sdl13\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260795420 c:\gph_sdk\include\sdl13\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1260795420 c:\gph_sdk\include\sdl13\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260795420 c:\gph_sdk\include\sdl13\sdl\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260795420 c:\gph_sdk\include\sdl13\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260795420 c:\gph_sdk\include\sdl13\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"SDL_revision.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260795420 c:\gph_sdk\include\sdl13\sdl\sdl_revision.h
+
+1260795420 c:\gph_sdk\include\sdl13\sdl\sdl_compat.h
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1260795420 c:\gph_sdk\include\sdl13\sdl\sdl_opengl.h
+	"SDL_config.h"
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<windows.h>
+	<stddef.h>
+	<inttypes.h>
+	<inttypes.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdint.h>
+	<inttypes.h>
+
+1260795420 c:\gph_sdk\include\sdl13\sdl\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1328230881 source:c:\workspaces\codeblocks\dynamicshadows\lightsystem.cpp
+	<windows.h>
+	"LightSystem.h"
+	<assert.h>
+
+1295703388 c:\workspaces\codeblocks\dynamicshadows\lightsystem.h
+	"Light.h"
+	"ConvexHull.h"
+	<vector>
+
+1328306347 source:c:\workspaces\codeblocks\dynamicshadows\sdlopengl.cpp
+	"SDLOpenGL.h"
+	<iostream>
+	<cmath>
+
+1328303992 source:c:\workspaces\codeblocks\dynamicshadows\utilities.cpp
+	"Utilities.h"
+	<stdlib.h>
+
+1328229111 source:c:\workspaces\codeblocks\dynamicshadows\main.cpp
+	"AllInclude.h"
+
+1328230903 c:\workspaces\codeblocks\dynamicshadows\allinclude.h
+	<windows.h>
+	"SDLOpenGL.h"
+	"Utilities.h"
+	"Light.h"
+	"LightSystem.h"
+	"ConvexHull.h"
+	"FPSTimer.h"
+
+1328233875 source:c:\workspaces\codeblocks\dynamicshadows\constructs.cpp
+	<windows.h>
+	<process.h>
+	"Constructs.h"
+	<cmath>
+	<iostream>
+	<fstream>
+
+1326933006 c:\sdl-1.2.15\include\sdl_opengl.h
+	"SDL_config.h"
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<gl.h>
+	<glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<windows.h>
+	<stddef.h>
+
+1326933030 c:\sdl-1.2.15\include\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1326933006 c:\sdl-1.2.15\include\sdl_platform.h
+
+1326933006 c:\sdl-1.2.15\include\sdl_config_dreamcast.h
+	"SDL_platform.h"
+
+1326933006 c:\sdl-1.2.15\include\sdl_config_macos.h
+	"SDL_platform.h"
+	<MacTypes.h>
+
+1326933006 c:\sdl-1.2.15\include\sdl_config_macosx.h
+	"SDL_platform.h"
+	<AvailabilityMacros.h>
+
+1326933006 c:\sdl-1.2.15\include\sdl_config_symbian.h
+	"SDL_platform.h"
+	<stdarg.h>
+	<stddef.h>
+
+1326933006 c:\sdl-1.2.15\include\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326933006 c:\sdl-1.2.15\include\sdl_config_os2.h
+	"SDL_platform.h"
+
+1326933006 c:\sdl-1.2.15\include\sdl_config_minimal.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1326933006 c:\sdl-1.2.15\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1326933006 c:\sdl-1.2.15\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1326933006 c:\sdl-1.2.15\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326933006 c:\sdl-1.2.15\include\begin_code.h
+
+1326933006 c:\sdl-1.2.15\include\close_code.h
+
+1326933006 c:\sdl-1.2.15\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1326933006 c:\sdl-1.2.15\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1326933006 c:\sdl-1.2.15\include\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1326933006 c:\sdl-1.2.15\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1326933006 c:\sdl-1.2.15\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1326933006 c:\sdl-1.2.15\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1326933006 c:\sdl-1.2.15\include\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1326933006 c:\sdl-1.2.15\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1326933006 c:\sdl-1.2.15\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1326933006 c:\sdl-1.2.15\include\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1326933006 c:\sdl-1.2.15\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1326933006 c:\sdl-1.2.15\include\sdl_keysym.h
+
+1326933006 c:\sdl-1.2.15\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1326933006 c:\sdl-1.2.15\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1326933006 c:\sdl-1.2.15\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1326933006 c:\sdl-1.2.15\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1326933006 c:\sdl-1.2.15\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1326933006 c:\sdl-1.2.15\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1326933006 c:\sdl-1.2.15\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1327078294 c:\sdl-1.2.15\include\sdl_image-1.2.12\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1243888522 c:\gph_sdk\dge\include\gl\glues.h
+	<SDL/SDL_opengles.h>
+	<GLES/gl.h>
+	<GLES\gl.h>
+
+1328234282 source:c:\workspaces\codeblocks\dynamicshadows\inicio.cpp
+	<windows.h>
+	"AllInclude.h"
+
+1327078294 c:\sdl-1.2.15\include\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1328237475 source:c:\workspaces\development\codeblocksopengles11\dynamicshadows\constructs.cpp
+	<windows.h>
+	<process.h>
+	"Constructs.h"
+	<cmath>
+	<iostream>
+	<fstream>
+
+1292840912 c:\workspaces\development\codeblocksopengles11\dynamicshadows\constructs.h
+	<iostream>
+
+1328234541 source:c:\workspaces\development\codeblocksopengles11\dynamicshadows\convexhull.cpp
+	<windows.h>
+	"ConvexHull.h"
+	<assert.h>
+	<iostream>
+	<fstream>
+	<sstream>
+
+1295706940 c:\workspaces\development\codeblocksopengles11\dynamicshadows\convexhull.h
+	"SDL_OpenGL.h"
+	"Utilities.h"
+	"Constructs.h"
+	<vector>
+
+1325742240 c:\workspaces\libs\sdl_1.2.15\include\sdl\sdl_opengl.h
+	"SDL_config.h"
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<gl.h>
+	<glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<windows.h>
+	<stddef.h>
+
+1326114588 c:\workspaces\libs\sdl_1.2.15\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325742240 c:\workspaces\libs\sdl_1.2.15\include\sdl\sdl_platform.h
+
+1326114594 c:\workspaces\libs\sdl_1.2.15\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1295706898 c:\workspaces\development\codeblocksopengles11\dynamicshadows\utilities.h
+	<fstream>
+	<sstream>
+
+1328234535 source:c:\workspaces\development\codeblocksopengles11\dynamicshadows\fpstimer.cpp
+	<windows.h>
+	"FPSTimer.h"
+
+1287840990 c:\workspaces\development\codeblocksopengles11\dynamicshadows\fpstimer.h
+	"SDL.h"
+
+1325742240 c:\workspaces\libs\sdl_1.2.15\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\workspaces\libs\sdl_1.2.15\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\workspaces\libs\sdl_1.2.15\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326114600 c:\workspaces\libs\sdl_1.2.15\include\sdl\begin_code.h
+
+1325742240 c:\workspaces\libs\sdl_1.2.15\include\sdl\close_code.h
+
+1325742240 c:\workspaces\libs\sdl_1.2.15\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\workspaces\libs\sdl_1.2.15\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\workspaces\libs\sdl_1.2.15\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\workspaces\libs\sdl_1.2.15\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\workspaces\libs\sdl_1.2.15\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325742240 c:\workspaces\libs\sdl_1.2.15\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\workspaces\libs\sdl_1.2.15\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\workspaces\libs\sdl_1.2.15\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\workspaces\libs\sdl_1.2.15\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\workspaces\libs\sdl_1.2.15\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\workspaces\libs\sdl_1.2.15\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\workspaces\libs\sdl_1.2.15\include\sdl\sdl_keysym.h
+
+1325742240 c:\workspaces\libs\sdl_1.2.15\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\workspaces\libs\sdl_1.2.15\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\workspaces\libs\sdl_1.2.15\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\workspaces\libs\sdl_1.2.15\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325742240 c:\workspaces\libs\sdl_1.2.15\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\workspaces\libs\sdl_1.2.15\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\workspaces\libs\sdl_1.2.15\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1328237882 source:c:\workspaces\development\codeblocksopengles11\dynamicshadows\inicio.cpp
+	<windows.h>
+	"AllInclude.h"
+
+1328234503 c:\workspaces\development\codeblocksopengles11\dynamicshadows\allinclude.h
+	<windows.h>
+	"SDLOpenGL.h"
+	"Utilities.h"
+	"Light.h"
+	"LightSystem.h"
+	"ConvexHull.h"
+	"FPSTimer.h"
+
+1328304234 c:\workspaces\development\codeblocksopengles11\dynamicshadows\sdlopengl.h
+	"SDL.h"
+	"SDL_opengl.h"
+	"SDL_image.h"
+	"Constructs.h"
+
+1327081894 c:\workspaces\libs\sdl_1.2.15\include\sdl_image\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1328235571 c:\workspaces\development\codeblocksopengles11\dynamicshadows\light.h
+	"SDLOpenGL.h"
+	"Utilities.h"
+	"Constructs.h"
+
+1295706988 c:\workspaces\development\codeblocksopengles11\dynamicshadows\lightsystem.h
+	"Light.h"
+	"ConvexHull.h"
+	<vector>
+
+1328234527 source:c:\workspaces\development\codeblocksopengles11\dynamicshadows\light.cpp
+	<windows.h>
+	"Light.h"
+	<assert.h>
+	<cmath>
+
+1328234481 source:c:\workspaces\development\codeblocksopengles11\dynamicshadows\lightsystem.cpp
+	<windows.h>
+	"LightSystem.h"
+	<assert.h>
+
+1328309947 source:c:\workspaces\development\codeblocksopengles11\dynamicshadows\sdlopengl.cpp
+	"SDLOpenGL.h"
+	<iostream>
+	<cmath>
+
+1328307592 source:c:\workspaces\development\codeblocksopengles11\dynamicshadows\utilities.cpp
+	"Utilities.h"
+	<stdlib.h>
+
+1328237475 source:c:\workspaces\workcodeblocks\dynamicshadows\constructs.cpp
+	<windows.h>
+	<process.h>
+	"Constructs.h"
+	<cmath>
+	<iostream>
+	<fstream>
+
+1292840912 c:\workspaces\workcodeblocks\dynamicshadows\constructs.h
+	<iostream>
+
+1328234541 source:c:\workspaces\workcodeblocks\dynamicshadows\convexhull.cpp
+	<windows.h>
+	"ConvexHull.h"
+	<assert.h>
+	<iostream>
+	<fstream>
+	<sstream>
+
+1295706940 c:\workspaces\workcodeblocks\dynamicshadows\convexhull.h
+	"SDL_OpenGL.h"
+	"Utilities.h"
+	"Constructs.h"
+	<vector>
+
+1295706898 c:\workspaces\workcodeblocks\dynamicshadows\utilities.h
+	<fstream>
+	<sstream>
+
+1328234535 source:c:\workspaces\workcodeblocks\dynamicshadows\fpstimer.cpp
+	<windows.h>
+	"FPSTimer.h"
+
+1287840990 c:\workspaces\workcodeblocks\dynamicshadows\fpstimer.h
+	"SDL.h"
+
+1328237882 source:c:\workspaces\workcodeblocks\dynamicshadows\inicio.cpp
+	<windows.h>
+	"AllInclude.h"
+
+1328234503 c:\workspaces\workcodeblocks\dynamicshadows\allinclude.h
+	<windows.h>
+	"SDLOpenGL.h"
+	"Utilities.h"
+	"Light.h"
+	"LightSystem.h"
+	"ConvexHull.h"
+	"FPSTimer.h"
+
+1328304234 c:\workspaces\workcodeblocks\dynamicshadows\sdlopengl.h
+	"SDL.h"
+	"SDL_opengl.h"
+	"SDL_image.h"
+	"Constructs.h"
+
+1328235571 c:\workspaces\workcodeblocks\dynamicshadows\light.h
+	"SDLOpenGL.h"
+	"Utilities.h"
+	"Constructs.h"
+
+1295706988 c:\workspaces\workcodeblocks\dynamicshadows\lightsystem.h
+	"Light.h"
+	"ConvexHull.h"
+	<vector>
+
+1328234527 source:c:\workspaces\workcodeblocks\dynamicshadows\light.cpp
+	<windows.h>
+	"Light.h"
+	<assert.h>
+	<cmath>
+
+1328234481 source:c:\workspaces\workcodeblocks\dynamicshadows\lightsystem.cpp
+	<windows.h>
+	"LightSystem.h"
+	<assert.h>
+
+1328309947 source:c:\workspaces\workcodeblocks\dynamicshadows\sdlopengl.cpp
+	"SDLOpenGL.h"
+	<iostream>
+	<cmath>
+
+1328307592 source:c:\workspaces\workcodeblocks\dynamicshadows\utilities.cpp
+	"Utilities.h"
+	<stdlib.h>
+

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1398294964 source:c:\workspaces\development\workcodeblocks\vbo\src\glinfo.cpp
+	<windows.h>
+	<OpenGL/gl.h>
+	<GL/gl.h>
+	<iostream>
+	<sstream>
+	<iomanip>
+	<algorithm>
+	<cstring>
+	"glInfo.h"
+	<windows.h>
+
+1398294964 c:\workspaces\development\workcodeblocks\vbo\src\glinfo.h
+	<string>
+	<vector>
+

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="SpaceShooter2D-Reloaded2" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/SpaceShooter2D-Reloaded2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-pedantic" />
+					<Add option="-Wextra" />
+					<Add option="-Wall" />
+					<Add option="-g" />
+					<Add option="-W" />
+					<Add option="-DNATIVEWIN32" />
+					<Add directory="C:/workspaces/workCodeblocks/SpaceShooter2D-Reloaded2" />
+					<Add directory="C:/workspaces/libs/OPENGLES-3.0/Include" />
+					<Add directory="C:/workspaces/libs/GLM-WIN32/include" />
+					<Add directory="C:/workspaces/libs/SDL_1.2.15/include/SDL" />
+					<Add directory="C:/workspaces/libs/SDL_1.2.15/include/SDL_image" />
+				</Compiler>
+				<Linker>
+					<Add option="-lmingw32" />
+					<Add option="-lSDL" />
+					<Add option="-lSDLmain" />
+					<Add option="-lSDL_image" />
+					<Add option="-llibEGL" />
+					<Add option="-llibGLESv2" />
+					<Add library="C:\workspaces\libs\OPENGLES-3.0\lib-32\libEGL.lib" />
+					<Add library="C:\workspaces\libs\OPENGLES-3.0\lib-32\libGLESv2.lib" />
+					<Add library="C:\workspaces\libs\SDL_1.2.15\lib-minwg32\SDL\libSDLmain.a" />
+					<Add library="C:\workspaces\libs\SDL_1.2.15\lib-minwg32\SDL\libSDL.dll.a" />
+					<Add library="C:\workspaces\libs\SDL_1.2.15\lib-minwg32\SDL_image\SDL_image.lib" />
+					<Add directory="C:/workspaces/libs/OPENGLES-3.0/lib-32" />
+					<Add directory="C:/workspaces/libs/GLM-WIN32/libs" />
+					<Add directory="C:/workspaces/libs/SDL_1.2.15/lib-minwg32/SDL" />
+					<Add directory="C:/workspaces/libs/SDL_1.2.15/lib-minwg32/SDL_image" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/SpaceShooter2D-Reloaded2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Camera.h" />
+		<Unit filename="ClockEngine.cpp" />
+		<Unit filename="ClockEngine.h" />
+		<Unit filename="ConfigFileEngine.cpp" />
+		<Unit filename="ConfigFileEngine.h" />
+		<Unit filename="Constants.h" />
+		<Unit filename="Element.h" />
+		<Unit filename="Entity.h" />
+		<Unit filename="EntityFactory.h" />
+		<Unit filename="GlobalEngine.cpp" />
+		<Unit filename="GlobalEngine.h" />
+		<Unit filename="Hud.h" />
+		<Unit filename="Image.cpp" />
+		<Unit filename="Image.h" />
+		<Unit filename="ImageFactoryManager.cpp" />
+		<Unit filename="ImageFactoryManager.h" />
+		<Unit filename="InitEngine.cpp" />
+		<Unit filename="InitEngine.h" />
+		<Unit filename="InitParamEngine.cpp" />
+		<Unit filename="InitParamEngine.h" />
+		<Unit filename="Level.cpp" />
+		<Unit filename="Level.h" />
+		<Unit filename="LevelFactoryManager.cpp" />
+		<Unit filename="LevelFactoryManager.h" />
+		<Unit filename="LogEngine.cpp" />
+		<Unit filename="LogEngine.h" />
+		<Unit filename="Main.cpp" />
+		<Unit filename="Main.h" />
+		<Unit filename="Manager.h" />
+		<Unit filename="NativeEngine.h" />
+		<Unit filename="NativeWin32Engine.cpp" />
+		<Unit filename="NativeWin32Engine.h" />
+		<Unit filename="Player.h" />
+		<Unit filename="README.txt" />
+		<Unit filename="Render.h" />
+		<Unit filename="RenderElement.h" />
+		<Unit filename="RenderManager.cpp" />
+		<Unit filename="RenderManager.h" />
+		<Unit filename="RenderMap.h" />
+		<Unit filename="Stdafx.h" />
+		<Unit filename="Steps.h" />
+		<Unit filename="Tile.h" />
+		<Unit filename="VideoManager.cpp" />
+		<Unit filename="VideoManager.h" />
+		<Unit filename="data/Sin2DEng.log" />
+		<Unit filename="data/doc/bitacora.txt" />
+		<Unit filename="data/doc/informacion.txt" />
+		<Unit filename="data/global.ini" />
+		<Unit filename="data/level1/floor_1.txt" />
+		<Unit filename="data/level1/level1.txt" />
+		<Unit filename="data/shader/fragment.txt" />
+		<Unit filename="data/shader/initfragment.txt" />
+		<Unit filename="data/shader/initvertex.txt" />
+		<Unit filename="data/shader/tilefragment.txt" />
+		<Unit filename="data/shader/tilefragment_1.txt" />
+		<Unit filename="data/shader/tilefragment_2.txt" />
+		<Unit filename="data/shader/tilevertex.txt" />
+		<Unit filename="data/shader/tilevertex_1.txt" />
+		<Unit filename="data/shader/tilevertex_2.txt" />
+		<Unit filename="data/shader/vertex.txt" />
+		<Unit filename="data/text/TextVertexShader.fragmentshader" />
+		<Unit filename="data/text/TextVertexShader.vertexshader" />
+		<Unit filename="data/text/shader_cpp.txt" />
+		<Unit filename="data/text/shader_hpp.txt" />
+		<Unit filename="data/text/text2D_cpp.txt" />
+		<Unit filename="data/text/text2D_hpp.txt" />
+		<Unit filename="data/text/texture_cpp.txt" />
+		<Unit filename="data/text/texture_hpp.txt" />
+		<Unit filename="data/text/tutorial11_cpp.txt" />
+		<Unit filename="data/text/uvmap.DDS" />
+		<Unit filename="resource.rc">
+			<Option compilerVar="WINDRES" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
