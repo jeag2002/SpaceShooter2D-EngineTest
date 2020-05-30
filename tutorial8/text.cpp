@@ -152,10 +152,10 @@ typedef struct {
 
   Point nPts[] = {{0, 6}, {0, 3}, {3, 3}, {4, 4}, {4, 6}};
   Line nLines[] = {{0, 1}, {1, 2}, {2, 3}, {3, 4}};
-  
+
   Point oPts[] = {{0, 4}, {0, 5}, {1, 6}, {3, 6}, {4, 5}, {4, 4}, {3, 3}, {1, 3}};
   Line oLines[] = {{0, 1}, {1, 2}, {2, 3}, {3, 4}, {4, 5}, {5, 6}, {6, 7}, {7, 0}};
-  
+
   Point pPts[] = {{0, 8}, {0, 4}, {1, 3}, {3, 3}, {4, 4}, {4, 5}, {3, 6}, {0, 6}};
   Line pLines[] = {{0, 1}, {1, 2}, {2, 3}, {3, 4}, {4, 5}, {5, 6}, {6, 7}};
 
@@ -176,7 +176,7 @@ typedef struct {
 
   Point vPts[] = {{0, 3}, {0, 4}, {2, 6}, {4, 4}, {4, 3}};
   Line vLines[] = {{0, 1}, {1, 2}, {2, 3}, {3, 4}};
-  
+
   Point wPts[] = {{0, 3}, {0, 5}, {1, 6}, {2, 5}, {3, 6}, {4, 5}, {4, 3}};
   Line wLines[] = {{0, 1}, {1, 2}, {2, 3}, {3, 4}, {4, 5}, {5, 6}};
 
@@ -197,25 +197,25 @@ typedef struct {
 
   Point twoPts[] = {{0, 1}, {1, 0}, {3, 0}, {4, 1}, {4, 2}, {0, 6}, {4, 6}};
   Line twoLines[] = {{0, 1}, {1, 2}, {2, 3}, {3, 4}, {4, 5}, {5, 6}};
-  
+
   Point threePts[] = {{0, 1}, {1, 0}, {3, 0}, {4, 1}, {4, 2}, {3, 3}, {2, 3}, {4, 4}, {4, 5}, {3, 6}, {1, 6}, {0, 5}};
   Line threeLines[] = {{0, 1}, {1, 2}, {2, 3}, {3, 4}, {4, 5}, {5, 6}, {5, 7}, {7, 8}, {8, 9}, {9, 10}, {10, 11}};
 
   Point fourPts[] = {{0, 0}, {0, 3}, {4, 3}, {3, 0}, {3, 6}};
   Line fourLines[] = {{0, 1}, {1, 2}, {3, 4}};
-  
+
   Point fivePts[] = {{4, 0}, {0, 0}, {0, 2}, {3, 2}, {4, 3}, {4, 5}, {3, 6}, {1, 6}, {0, 5}};
   Line fiveLines[] = {{0, 1}, {1, 2}, {2, 3}, {3, 4}, {4, 5}, {5, 6}, {6, 7}, {7, 8}};
-  
+
   Point sixPts[] = {{4, 1}, {3, 0}, {1, 0}, {0, 1}, {0, 5}, {1, 6}, {3, 6}, {4, 5}, {4, 4}, {3, 3}, {0, 3}};
   Line sixLines[] = {{0, 1}, {1, 2}, {2, 3}, {3, 4}, {4, 5}, {5, 6}, {6, 7}, {7, 8}, {8, 9}, {9, 10}};
 
   Point sevenPts[] = {{0, 0}, {4, 0}, {2, 6}};
   Line sevenLines[] = {{0, 1}, {1, 2}};
-  
+
   Point eightPts[] = {{4, 1}, {3, 0}, {1, 0}, {0, 1}, {0, 2}, {1, 3}, {0, 4}, {0, 5}, {1, 6}, {3, 6}, {4, 5}, {4, 4}, {3, 3}, {4, 2}};
   Line eightLines[] = {{0, 1}, {1, 2}, {2, 3}, {3, 4}, {4, 5}, {5, 6}, {6, 7}, {7, 8}, {8, 9}, {9, 10}, {10, 11}, {11, 12}, {12, 13}, {13, 0}, {5, 12}};
-  
+
   Point ninePts[] = {{0, 5}, {1, 6}, {3, 6}, {4, 5}, {4, 1}, {3, 0}, {1, 0}, {0, 1}, {0, 2}, {1, 3}, {4, 3}};
   Line nineLines[] = {{0, 1}, {1, 2}, {2, 3}, {3, 4}, {4, 5}, {5, 6}, {6, 7}, {7, 8}, {8, 9}, {9, 10}};
 
@@ -227,16 +227,16 @@ typedef struct {
 
   Point colonPts[] = {{2, 0}, {2, 1}, {2, 5}, {2, 6}};
   Line colonLines[] = {{0, 1}, {2, 3}};
-  
+
   Point commaPts[] = {{1, 6}, {0, 7}};
   Line commaLines[] = {{0, 1}};
-  
+
   Point lParenPts[] = {{2, 0}, {1, 2}, {1, 4}, {2, 6}};
   Line lParenLines[] = {{0, 1}, {1, 2}, {2, 3}};
 
   Point rParenPts[] = {{2, 0}, {3, 2}, {3, 4}, {2, 6}};
   Line rParenLines[] = {{0, 1}, {1, 2}, {2, 3}};
-  
+
   // Count of points, lines
   Character chars[] = {{8, 6}, {10, 10}, {8, 7}, {6, 6}, {6, 4}, // E
                   {5, 3}, {10, 9}, {6, 3}, {6, 3}, {6, 5}, // J
@@ -264,7 +264,7 @@ typedef struct {
                     jLines, kLines, lLines, mLines, nLines, // n
                     oLines, pLines, qLines, rLines, sLines, // s
                     tLines, uLines, vLines, wLines, xLines, // x
-                    yLines, zLines, 
+                    yLines, zLines,
                     zeroLines, oneLines, twoLines, // 2
                     threeLines, fourLines, fiveLines, sixLines, // 6
                     sevenLines, eightLines, nineLines, dotLines, quoteLines,
@@ -319,7 +319,7 @@ void AllocateTextBuffers() {
 }
 
 void FreeTextBuffers() {
-  for (int i = 0; i < MAX_CHARACTERS; i++) 
+  for (int i = 0; i < MAX_CHARACTERS; i++)
     glDeleteBuffers(1, &charVBO[i]);
 }
 
@@ -327,26 +327,26 @@ void FreeTextBuffers() {
 void DrawCharacter(char c, U32BIT x, U32BIT y, U32BIT size) {
 
   unsigned short index = 1000;
-  
+
   if (c >= '0' && c <= '9')
     index = c - '0' + 52;
-  else if (c >= 'A' && c <= 'Z') 
+  else if (c >= 'A' && c <= 'Z')
     index = c - 'A';
-  else if (c >= 'a' && c <= 'z') 
+  else if (c >= 'a' && c <= 'z')
     index = c - 'a' + 26;
   else if (c =='.')
-    index = 62;  
+    index = 62;
   else if (c =='\"')
-    index = 63;  
+    index = 63;
   else if (c ==':')
-    index = 64;  
+    index = 64;
   else if (c ==',')
-    index = 65;  
+    index = 65;
   else if (c =='(')
-    index = 66;  
+    index = 66;
   else if (c ==')')
-    index = 67;  
-    
+    index = 67;
+
   if (index > MAX_CHARACTERS)
     return;
 
@@ -358,7 +358,7 @@ void DrawCharacter(char c, U32BIT x, U32BIT y, U32BIT size) {
     glBindBuffer(GL_ARRAY_BUFFER, charVBO[index]);
     glVertexPointer(2, GL_FIXED, 0, 0);
 
-    glDrawArrays(GL_LINES, 0, chars[index].numLines * 2);
+    //glDrawArrays(GL_LINES, 0, chars[index].numLines * 2);
   glPopMatrix();
 }
 
@@ -395,7 +395,7 @@ void DrawString(char *text, S32BIT x, S32BIT y, S32BIT size) {
 void DrawCenteredString(char *text, S32BIT x, S32BIT y, S32BIT size) {
   S32BIT step = ((6 << 8) * (size >> 8));
   S32BIT height = ((7 << 8) * (size >> 8));
-  
+
   S32BIT width = step * strlen(text);
   x = x - (width >> 1);
   y -= (height >> 1);

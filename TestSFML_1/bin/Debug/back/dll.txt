@@ -1,0 +1,2 @@
+libgcc_s_dw2-1.dll
+libgcc_s_sjlj-1.dll

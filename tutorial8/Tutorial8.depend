@@ -460,3 +460,245 @@
 	<unistd.h>
 	<string.h>
 
+1584319049 source:d:\workspaces\workgit-h\spaceshooter2d-enginetest\tutorial8\arena.cpp
+	"Arena.h"
+	"VBOAllocator.h"
+
+1584319049 d:\workspaces\workgit-h\spaceshooter2d-enginetest\tutorial8\arena.h
+	"texturedobject.h"
+
+1584319050 d:\workspaces\workgit-h\spaceshooter2d-enginetest\tutorial8\texturedobject.h
+	"GameObject.h"
+	"Textures.h"
+	"FixedTrig.h"
+
+1584319049 d:\workspaces\workgit-h\spaceshooter2d-enginetest\tutorial8\gameobject.h
+	"defines.h"
+	<GLES/gl.h>
+	"ObjectTypes.h"
+	"FixedTrig.h"
+
+1584319050 d:\workspaces\workgit-h\spaceshooter2d-enginetest\tutorial8\defines.h
+
+1450372839 d:\workspaces\libs\powervr_40\sdk\sdk_4.0\builds\include\gles\gl.h
+	<GLES/glplatform.h>
+
+1450372839 d:\workspaces\libs\powervr_40\sdk\sdk_4.0\builds\include\gles\glplatform.h
+	<KHR/khrplatform.h>
+
+1312457582 d:\workspaces\libs\khr\include\khr\khrplatform.h
+
+1584319050 d:\workspaces\workgit-h\spaceshooter2d-enginetest\tutorial8\objecttypes.h
+
+1584319049 d:\workspaces\workgit-h\spaceshooter2d-enginetest\tutorial8\fixedtrig.h
+	"defines.h"
+
+1584319050 d:\workspaces\workgit-h\spaceshooter2d-enginetest\tutorial8\textures.h
+
+1584319050 d:\workspaces\workgit-h\spaceshooter2d-enginetest\tutorial8\vboallocator.h
+	<gles/gl.h>
+
+1584319049 source:d:\workspaces\workgit-h\spaceshooter2d-enginetest\tutorial8\bullet.cpp
+	"Bullet.h"
+	"VBOAllocator.h"
+	<math.h>
+
+1584319049 d:\workspaces\workgit-h\spaceshooter2d-enginetest\tutorial8\bullet.h
+	"TexturedObject.h"
+	"GameContext.h"
+
+1584319049 d:\workspaces\workgit-h\spaceshooter2d-enginetest\tutorial8\gamecontext.h
+	"TextureManager.h"
+	"ObjectManager.h"
+	"Input.h"
+
+1584319050 d:\workspaces\workgit-h\spaceshooter2d-enginetest\tutorial8\texturemanager.h
+	<GLES/gl.h>
+	"textures.h"
+
+1584319050 d:\workspaces\workgit-h\spaceshooter2d-enginetest\tutorial8\objectmanager.h
+	<list>
+	<cstddef>
+	"GameObject.h"
+
+1584319050 d:\workspaces\workgit-h\spaceshooter2d-enginetest\tutorial8\input.h
+
+1584319049 source:d:\workspaces\workgit-h\spaceshooter2d-enginetest\tutorial8\explosionparticle.cpp
+	"ExplosionParticle.h"
+	<stdlib.h>
+	"texturemanager.h"
+	"VBOAllocator.h"
+
+1584319049 d:\workspaces\workgit-h\spaceshooter2d-enginetest\tutorial8\explosionparticle.h
+	"TexturedObject.h"
+
+1584319049 source:d:\workspaces\workgit-h\spaceshooter2d-enginetest\tutorial8\explosionps.cpp
+	"ExplosionPS.h"
+	"ExplosionParticle.h"
+
+1584319049 d:\workspaces\workgit-h\spaceshooter2d-enginetest\tutorial8\explosionps.h
+	"ObjectManager.h"
+
+1584319049 source:d:\workspaces\workgit-h\spaceshooter2d-enginetest\tutorial8\fixedtrig.cpp
+	"FixedTrig.h"
+	<stdlib.h>
+	<math.h>
+
+1584319049 source:d:\workspaces\workgit-h\spaceshooter2d-enginetest\tutorial8\gamecontext.cpp
+	"GameContext.h"
+
+1584319049 source:d:\workspaces\workgit-h\spaceshooter2d-enginetest\tutorial8\gameobject.cpp
+	"GameObject.h"
+	"FixedTrig.h"
+
+1584319049 source:d:\workspaces\workgit-h\spaceshooter2d-enginetest\tutorial8\glcontrol.cpp
+	"glcontrol.h"
+	<tchar.h>
+	<iostream>
+	"input.h"
+	"defines.h"
+	"text.h"
+
+1584319049 d:\workspaces\workgit-h\spaceshooter2d-enginetest\tutorial8\glcontrol.h
+	<GLES/egl.h>
+	<GLES/gl.h>
+
+1450372839 d:\workspaces\libs\powervr_40\sdk\sdk_4.0\builds\include\gles\egl.h
+	<EGL/egl.h>
+	<GLES/gl.h>
+
+1450372839 d:\workspaces\libs\powervr_40\sdk\sdk_4.0\builds\include\egl\egl.h
+	<EGL/eglplatform.h>
+
+1450372839 d:\workspaces\libs\powervr_40\sdk\sdk_4.0\builds\include\egl\eglplatform.h
+	<KHR/khrplatform.h>
+	<windows.h>
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<android/native_window.h>
+
+1584319050 d:\workspaces\workgit-h\spaceshooter2d-enginetest\tutorial8\text.h
+	"defines.h"
+
+1584319050 source:d:\workspaces\workgit-h\spaceshooter2d-enginetest\tutorial8\heart.cpp
+	"Heart.h"
+	"texturemanager.h"
+	"VBOAllocator.h"
+
+1584319050 d:\workspaces\workgit-h\spaceshooter2d-enginetest\tutorial8\heart.h
+	"TexturedObject.h"
+
+1584319050 source:d:\workspaces\workgit-h\spaceshooter2d-enginetest\tutorial8\input.cpp
+	"input.h"
+	"wiz.h"
+
+1584319050 d:\workspaces\workgit-h\spaceshooter2d-enginetest\tutorial8\wiz.h
+
+1584319050 source:d:\workspaces\workgit-h\spaceshooter2d-enginetest\tutorial8\main.cpp
+	<windows.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	"glcontrol.h"
+	"Player.h"
+	"RocketMan.h"
+	"arena.h"
+	"FixedTrig.h"
+	"GameContext.h"
+	"Heart.h"
+	"text.h"
+	"wiz.h"
+	"ExplosionParticle.h"
+	"defines.h"
+
+1584319050 d:\workspaces\workgit-h\spaceshooter2d-enginetest\tutorial8\player.h
+	"TexturedObject.h"
+	"GameContext.h"
+
+1584319050 d:\workspaces\workgit-h\spaceshooter2d-enginetest\tutorial8\rocketman.h
+	"TexturedObject.h"
+	"GameContext.h"
+
+1584319050 source:d:\workspaces\workgit-h\spaceshooter2d-enginetest\tutorial8\objectmanager.cpp
+	"objectmanager.h"
+
+1584319050 source:d:\workspaces\workgit-h\spaceshooter2d-enginetest\tutorial8\player.cpp
+	"Player.h"
+	<math.h>
+	"input.h"
+	"bullet.h"
+	"VBOAllocator.h"
+
+1584319050 source:d:\workspaces\workgit-h\spaceshooter2d-enginetest\tutorial8\rocket.cpp
+	"Rocket.h"
+	"ExplosionPS.h"
+	"VBOAllocator.h"
+
+1584319050 d:\workspaces\workgit-h\spaceshooter2d-enginetest\tutorial8\rocket.h
+	"TexturedObject.h"
+	"SmokePS.h"
+	"GameContext.h"
+
+1584319050 d:\workspaces\workgit-h\spaceshooter2d-enginetest\tutorial8\smokeps.h
+	"ObjectManager.h"
+
+1584319050 source:d:\workspaces\workgit-h\spaceshooter2d-enginetest\tutorial8\rocketman.cpp
+	"RocketMan.h"
+	<math.h>
+	<stdlib.h>
+	<iostream>
+	"rocket.h"
+	"fixedtrig.h"
+	"ExplosionPS.h"
+	"Arena.h"
+	"Player.h"
+	"VBOAllocator.h"
+
+1584319050 source:d:\workspaces\workgit-h\spaceshooter2d-enginetest\tutorial8\smokeparticle.cpp
+	"SmokeParticle.h"
+	<stdlib.h>
+	"texturemanager.h"
+	"VBOAllocator.h"
+
+1584319050 d:\workspaces\workgit-h\spaceshooter2d-enginetest\tutorial8\smokeparticle.h
+	"TexturedObject.h"
+
+1584319050 source:d:\workspaces\workgit-h\spaceshooter2d-enginetest\tutorial8\smokeps.cpp
+	"SmokePS.h"
+	"texturemanager.h"
+	"SmokeParticle.h"
+
+1584391899 source:d:\workspaces\workgit-h\spaceshooter2d-enginetest\tutorial8\text.cpp
+	"text.h"
+	<string.h>
+	<malloc.h>
+	"TexturedObject.h"
+
+1584319050 source:d:\workspaces\workgit-h\spaceshooter2d-enginetest\tutorial8\texturedobject.cpp
+	"TexturedObject.h"
+	<stdlib.h>
+	<math.h>
+	"FixedTrig.h"
+	"texturemanager.h"
+
+1584319050 source:d:\workspaces\workgit-h\spaceshooter2d-enginetest\tutorial8\texturemanager.cpp
+	"texturemanager.h"
+	<fstream>
+	<iostream>
+	"defines.h"
+
+1584319050 source:d:\workspaces\workgit-h\spaceshooter2d-enginetest\tutorial8\vboallocator.cpp
+	"VBOAllocator.h"
+	"defines.h"
+
+1584319050 source:d:\workspaces\workgit-h\spaceshooter2d-enginetest\tutorial8\wiz.cpp
+	"wiz.h"
+	<stdint.h>
+	<stdlib.h>
+	<stdio.h>
+	<fcntl.h>
+	<sys/mman.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<string.h>
+

@@ -18,11 +18,11 @@
 					<Add option="-g" />
 					<Add option="-W" />
 					<Add option="-DNATIVEWIN32" />
-					<Add directory="C:/workspaces/workCodeblocks/SpaceShooter2D-Reloaded2" />
-					<Add directory="C:/workspaces/libs/OPENGLES-3.0/Include" />
-					<Add directory="C:/workspaces/libs/GLM-WIN32/include" />
-					<Add directory="C:/workspaces/libs/SDL_1.2.15/include/SDL" />
-					<Add directory="C:/workspaces/libs/SDL_1.2.15/include/SDL_image" />
+					<Add directory="D:/workspaces/workGit-H/SpaceShooter2D-EngineTest/SpaceShooter2D-Reloaded2" />
+					<Add directory="D:/workspaces/libs/PowerVR_40/sdk/SDK_4.0/Builds/Include" />
+					<Add directory="D:/workspaces/libs/GLM-WIN32/include" />
+					<Add directory="D:/workspaces/libs/SDL_1.2.15/include/SDL" />
+					<Add directory="D:/workspaces/libs/SDL_1.2.15/include/SDL_image" />
 				</Compiler>
 				<Linker>
 					<Add option="-lmingw32" />
@@ -31,15 +31,15 @@
 					<Add option="-lSDL_image" />
 					<Add option="-llibEGL" />
 					<Add option="-llibGLESv2" />
-					<Add library="C:\workspaces\libs\OPENGLES-3.0\lib-32\libEGL.lib" />
-					<Add library="C:\workspaces\libs\OPENGLES-3.0\lib-32\libGLESv2.lib" />
-					<Add library="C:\workspaces\libs\SDL_1.2.15\lib-minwg32\SDL\libSDLmain.a" />
-					<Add library="C:\workspaces\libs\SDL_1.2.15\lib-minwg32\SDL\libSDL.dll.a" />
-					<Add library="C:\workspaces\libs\SDL_1.2.15\lib-minwg32\SDL_image\SDL_image.lib" />
-					<Add directory="C:/workspaces/libs/OPENGLES-3.0/lib-32" />
-					<Add directory="C:/workspaces/libs/GLM-WIN32/libs" />
-					<Add directory="C:/workspaces/libs/SDL_1.2.15/lib-minwg32/SDL" />
-					<Add directory="C:/workspaces/libs/SDL_1.2.15/lib-minwg32/SDL_image" />
+					<Add library="D:/workspaces/libs/PowerVR_40/sdk/SDK_4.0/Builds/Windows/x86_32/Lib/libEGL.lib" />
+					<Add library="D:/workspaces/libs/PowerVR_40/sdk/SDK_4.0/Builds/Windows/x86_32/Lib/libGLESv2.lib" />
+					<Add library="D:/workspaces/libs/SDL_1.2.15/lib-minwg32/SDL/libSDLmain.a" />
+					<Add library="D:/workspaces/libs/SDL_1.2.15/lib-minwg32/SDL/libSDL.dll.a" />
+					<Add library="D:/workspaces/libs/SDL_1.2.15/lib-minwg32/SDL_image/SDL_image.lib" />
+					<Add directory="D:/workspaces/libs/PowerVR_40/sdk/SDK_4.0/Builds/Windows/x86_32/Lib" />
+					<Add directory="D:/workspaces/libs/GLM-WIN32/libs" />
+					<Add directory="D:/workspaces/libs/SDL_1.2.15/lib-minwg32/SDL" />
+					<Add directory="D:/workspaces/libs/SDL_1.2.15/lib-minwg32/SDL_image" />
 				</Linker>
 			</Target>
 			<Target title="Release">

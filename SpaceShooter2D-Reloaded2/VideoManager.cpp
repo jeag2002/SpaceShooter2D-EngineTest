@@ -37,6 +37,8 @@ void VideoManager::startUp(){
          glDisplay = eglGetDisplay((EGLNativeDisplayType) EGL_DEFAULT_DISPLAY);
     }
 
+    //EGLint iMajorVersion, iMinorVersion;
+
     if (!eglInitialize(glDisplay, NULL, NULL)){
         ERRORLOG("Error al inicializar Display EGL");
         exit(-1);

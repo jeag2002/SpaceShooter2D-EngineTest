@@ -766,3 +766,637 @@
 1412624383 source:c:\workspaces\workcodeblocks\spaceshooter2d-reloaded2\level.cpp
 	"Level.h"
 
+1584319049 source:d:\workspaces\workgit-h\spaceshooter2d-enginetest\spaceshooter2d-reloaded2\clockengine.cpp
+	"ClockEngine.h"
+
+1584319049 d:\workspaces\workgit-h\spaceshooter2d-enginetest\spaceshooter2d-reloaded2\clockengine.h
+	"Stdafx.h"
+
+1584319049 d:\workspaces\workgit-h\spaceshooter2d-enginetest\spaceshooter2d-reloaded2\stdafx.h
+	<windows.h>
+	<process.h>
+	<stddef.h>
+	<tchar.h>
+	<GLES3/gl3.h>
+	<EGL/egl.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	<SDL.h>
+	<SDL_image.h>
+	<string>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<cmath>
+	<iostream>
+	<fstream>
+	<vector>
+	<time.h>
+	"GlobalEngine.h"
+	"LogEngine.h"
+	"RenderManager.h"
+
+1450372839 d:\workspaces\libs\powervr_40\sdk\sdk_4.0\builds\include\gles3\gl3.h
+	<GLES3/gl3platform.h>
+	<KHR/khrplatform.h>
+
+1450372839 d:\workspaces\libs\powervr_40\sdk\sdk_4.0\builds\include\gles3\gl3platform.h
+	<KHR/khrplatform.h>
+
+1450372839 d:\workspaces\libs\powervr_40\sdk\sdk_4.0\builds\include\khr\khrplatform.h
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+
+1450372839 d:\workspaces\libs\powervr_40\sdk\sdk_4.0\builds\include\egl\egl.h
+	<EGL/eglplatform.h>
+
+1450372839 d:\workspaces\libs\powervr_40\sdk\sdk_4.0\builds\include\egl\eglplatform.h
+	<KHR/khrplatform.h>
+	<windows.h>
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<android/native_window.h>
+
+1363487670 d:\workspaces\libs\glm-win32\include\glm\glm.hpp
+	"core/_fixes.hpp"
+	<cmath>
+	<climits>
+	<cfloat>
+	<limits>
+	<cstdio>
+	"core/setup.hpp"
+	"./core/_detail.hpp"
+	"./core/_vectorize.hpp"
+	"./core/type.hpp"
+	"./core/func_trigonometric.hpp"
+	"./core/func_exponential.hpp"
+	"./core/func_common.hpp"
+	"./core/func_packing.hpp"
+	"./core/func_geometric.hpp"
+	"./core/func_matrix.hpp"
+	"./core/func_vector_relational.hpp"
+	"./core/func_integer.hpp"
+	"./core/func_noise.hpp"
+	"./core/_swizzle.hpp"
+
+1361373727 d:\workspaces\libs\glm-win32\include\glm\core\_fixes.hpp
+	<cmath>
+
+1363521490 d:\workspaces\libs\glm-win32\include\glm\core\setup.hpp
+	<intrin.h>
+	<immintrin.h>
+	<immintrin.h>
+	<smmintrin.h>
+	<pmmintrin.h>
+	<emmintrin.h>
+
+1363487670 d:\workspaces\libs\glm-win32\include\glm\core\_detail.hpp
+	"setup.hpp"
+	<cassert>
+	<cstdint>
+
+1361373727 d:\workspaces\libs\glm-win32\include\glm\core\_vectorize.hpp
+
+1361373727 d:\workspaces\libs\glm-win32\include\glm\core\type.hpp
+	"type_half.hpp"
+	"type_float.hpp"
+	"type_int.hpp"
+	"type_gentype.hpp"
+	"type_vec1.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_mat2x2.hpp"
+	"type_mat2x3.hpp"
+	"type_mat2x4.hpp"
+	"type_mat3x2.hpp"
+	"type_mat3x3.hpp"
+	"type_mat3x4.hpp"
+	"type_mat4x2.hpp"
+	"type_mat4x3.hpp"
+	"type_mat4x4.hpp"
+
+1363487670 d:\workspaces\libs\glm-win32\include\glm\core\type_half.hpp
+	<cstdlib>
+	"type_half.inl"
+
+1363487670 d:\workspaces\libs\glm-win32\include\glm\core\type_half.inl
+	"_detail.hpp"
+
+1363487670 d:\workspaces\libs\glm-win32\include\glm\core\type_float.hpp
+	"type_half.hpp"
+	"setup.hpp"
+
+1363487670 d:\workspaces\libs\glm-win32\include\glm\core\type_int.hpp
+	"setup.hpp"
+	"_detail.hpp"
+
+1361373727 d:\workspaces\libs\glm-win32\include\glm\core\type_gentype.hpp
+	"type_size.hpp"
+
+1361373727 d:\workspaces\libs\glm-win32\include\glm\core\type_size.hpp
+	<cstdlib>
+
+1361373727 d:\workspaces\libs\glm-win32\include\glm\core\type_vec1.hpp
+	"type_vec.hpp"
+	"type_float.hpp"
+	"type_int.hpp"
+	"type_size.hpp"
+	"_swizzle.hpp"
+	"type_vec1.inl"
+
+1361373727 d:\workspaces\libs\glm-win32\include\glm\core\type_vec.hpp
+	"type_gentype.hpp"
+
+1361373727 d:\workspaces\libs\glm-win32\include\glm\core\_swizzle.hpp
+	"_swizzle_func.hpp"
+
+1361373727 d:\workspaces\libs\glm-win32\include\glm\core\_swizzle_func.hpp
+
+1361373727 d:\workspaces\libs\glm-win32\include\glm\core\type_vec1.inl
+
+1363487670 d:\workspaces\libs\glm-win32\include\glm\core\type_vec2.hpp
+	"type_vec.hpp"
+	"type_float.hpp"
+	"type_int.hpp"
+	"type_size.hpp"
+	"_swizzle.hpp"
+	"type_vec2.inl"
+
+1361373727 d:\workspaces\libs\glm-win32\include\glm\core\type_vec2.inl
+
+1363487670 d:\workspaces\libs\glm-win32\include\glm\core\type_vec3.hpp
+	"type_vec.hpp"
+	"type_float.hpp"
+	"type_int.hpp"
+	"type_size.hpp"
+	"_swizzle.hpp"
+	"type_vec3.inl"
+
+1361373727 d:\workspaces\libs\glm-win32\include\glm\core\type_vec3.inl
+
+1363487670 d:\workspaces\libs\glm-win32\include\glm\core\type_vec4.hpp
+	"type_vec.hpp"
+	"type_float.hpp"
+	"type_int.hpp"
+	"type_size.hpp"
+	"_swizzle.hpp"
+	"type_vec4.inl"
+
+1361373727 d:\workspaces\libs\glm-win32\include\glm\core\type_vec4.inl
+
+1361373727 d:\workspaces\libs\glm-win32\include\glm\core\type_mat2x2.hpp
+	"type_mat.hpp"
+	"type_mat2x2.inl"
+
+1361373727 d:\workspaces\libs\glm-win32\include\glm\core\type_mat.hpp
+	"type_gentype.hpp"
+
+1361373727 d:\workspaces\libs\glm-win32\include\glm\core\type_mat2x2.inl
+
+1361373727 d:\workspaces\libs\glm-win32\include\glm\core\type_mat2x3.hpp
+	"type_mat.hpp"
+	"type_mat2x3.inl"
+
+1361373727 d:\workspaces\libs\glm-win32\include\glm\core\type_mat2x3.inl
+
+1361373727 d:\workspaces\libs\glm-win32\include\glm\core\type_mat2x4.hpp
+	"type_mat.hpp"
+	"type_mat2x4.inl"
+
+1361373727 d:\workspaces\libs\glm-win32\include\glm\core\type_mat2x4.inl
+
+1361373727 d:\workspaces\libs\glm-win32\include\glm\core\type_mat3x2.hpp
+	"type_mat.hpp"
+	"type_mat3x2.inl"
+
+1361373727 d:\workspaces\libs\glm-win32\include\glm\core\type_mat3x2.inl
+
+1361373727 d:\workspaces\libs\glm-win32\include\glm\core\type_mat3x3.hpp
+	"type_mat.hpp"
+	"type_mat3x3.inl"
+
+1361373727 d:\workspaces\libs\glm-win32\include\glm\core\type_mat3x3.inl
+
+1361373727 d:\workspaces\libs\glm-win32\include\glm\core\type_mat3x4.hpp
+	"type_mat.hpp"
+	"type_mat3x4.inl"
+
+1361373727 d:\workspaces\libs\glm-win32\include\glm\core\type_mat3x4.inl
+
+1361373727 d:\workspaces\libs\glm-win32\include\glm\core\type_mat4x2.hpp
+	"type_mat.hpp"
+	"type_mat4x2.inl"
+
+1361373727 d:\workspaces\libs\glm-win32\include\glm\core\type_mat4x2.inl
+
+1361373727 d:\workspaces\libs\glm-win32\include\glm\core\type_mat4x3.hpp
+	"type_mat.hpp"
+	"type_mat4x3.inl"
+
+1361373727 d:\workspaces\libs\glm-win32\include\glm\core\type_mat4x3.inl
+
+1361373727 d:\workspaces\libs\glm-win32\include\glm\core\type_mat4x4.hpp
+	"type_mat.hpp"
+	"type_mat4x4.inl"
+
+1361373727 d:\workspaces\libs\glm-win32\include\glm\core\type_mat4x4.inl
+
+1361373727 d:\workspaces\libs\glm-win32\include\glm\core\func_trigonometric.hpp
+	"func_trigonometric.inl"
+
+1361373727 d:\workspaces\libs\glm-win32\include\glm\core\func_trigonometric.inl
+
+1361373727 d:\workspaces\libs\glm-win32\include\glm\core\func_exponential.hpp
+	"func_exponential.inl"
+
+1361373727 d:\workspaces\libs\glm-win32\include\glm\core\func_exponential.inl
+
+1363522669 d:\workspaces\libs\glm-win32\include\glm\core\func_common.hpp
+	"_fixes.hpp"
+	"func_common.inl"
+
+1363524802 d:\workspaces\libs\glm-win32\include\glm\core\func_common.inl
+
+1363487670 d:\workspaces\libs\glm-win32\include\glm\core\func_packing.hpp
+	"func_packing.inl"
+
+1363487670 d:\workspaces\libs\glm-win32\include\glm\core\func_packing.inl
+
+1361373727 d:\workspaces\libs\glm-win32\include\glm\core\func_geometric.hpp
+	"func_geometric.inl"
+
+1361373727 d:\workspaces\libs\glm-win32\include\glm\core\func_geometric.inl
+
+1361373727 d:\workspaces\libs\glm-win32\include\glm\core\func_matrix.hpp
+	"func_matrix.inl"
+
+1361373727 d:\workspaces\libs\glm-win32\include\glm\core\func_matrix.inl
+
+1361373727 d:\workspaces\libs\glm-win32\include\glm\core\func_vector_relational.hpp
+	"_detail.hpp"
+	"func_vector_relational.inl"
+
+1361373727 d:\workspaces\libs\glm-win32\include\glm\core\func_vector_relational.inl
+
+1361373727 d:\workspaces\libs\glm-win32\include\glm\core\func_integer.hpp
+	"func_integer.inl"
+
+1361373727 d:\workspaces\libs\glm-win32\include\glm\core\func_integer.inl
+	<intrin.h>
+
+1361373727 d:\workspaces\libs\glm-win32\include\glm\core\func_noise.hpp
+	"func_noise.inl"
+
+1361373727 d:\workspaces\libs\glm-win32\include\glm\core\func_noise.inl
+
+1363487670 d:\workspaces\libs\glm-win32\include\glm\gtc\matrix_transform.hpp
+	"../glm.hpp"
+	"matrix_transform.inl"
+
+1363487670 d:\workspaces\libs\glm-win32\include\glm\gtc\matrix_transform.inl
+
+1361373727 d:\workspaces\libs\glm-win32\include\glm\gtc\type_ptr.hpp
+	"../glm.hpp"
+	"../gtc/half_float.hpp"
+	"../gtc/quaternion.hpp"
+	<cstring>
+	"type_ptr.inl"
+
+1363522958 d:\workspaces\libs\glm-win32\include\glm\gtc\half_float.hpp
+	"../glm.hpp"
+	"half_float.inl"
+
+1363522476 d:\workspaces\libs\glm-win32\include\glm\gtc\half_float.inl
+
+1363487670 d:\workspaces\libs\glm-win32\include\glm\gtc\quaternion.hpp
+	"../glm.hpp"
+	"../gtc/half_float.hpp"
+	"../gtc/constants.hpp"
+	"quaternion.inl"
+
+1361373727 d:\workspaces\libs\glm-win32\include\glm\gtc\constants.hpp
+	"../glm.hpp"
+	"../gtc/half_float.hpp"
+	"constants.inl"
+
+1361373727 d:\workspaces\libs\glm-win32\include\glm\gtc\constants.inl
+
+1363487670 d:\workspaces\libs\glm-win32\include\glm\gtc\quaternion.inl
+	<limits>
+
+1361373727 d:\workspaces\libs\glm-win32\include\glm\gtc\type_ptr.inl
+
+1325738640 d:\workspaces\libs\sdl_1.2.15\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 d:\workspaces\libs\sdl_1.2.15\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 d:\workspaces\libs\sdl_1.2.15\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326110988 d:\workspaces\libs\sdl_1.2.15\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325738640 d:\workspaces\libs\sdl_1.2.15\include\sdl\sdl_platform.h
+
+1326110994 d:\workspaces\libs\sdl_1.2.15\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326111000 d:\workspaces\libs\sdl_1.2.15\include\sdl\begin_code.h
+
+1325738640 d:\workspaces\libs\sdl_1.2.15\include\sdl\close_code.h
+
+1325738640 d:\workspaces\libs\sdl_1.2.15\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 d:\workspaces\libs\sdl_1.2.15\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 d:\workspaces\libs\sdl_1.2.15\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 d:\workspaces\libs\sdl_1.2.15\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 d:\workspaces\libs\sdl_1.2.15\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325738640 d:\workspaces\libs\sdl_1.2.15\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 d:\workspaces\libs\sdl_1.2.15\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 d:\workspaces\libs\sdl_1.2.15\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 d:\workspaces\libs\sdl_1.2.15\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 d:\workspaces\libs\sdl_1.2.15\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 d:\workspaces\libs\sdl_1.2.15\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 d:\workspaces\libs\sdl_1.2.15\include\sdl\sdl_keysym.h
+
+1325738640 d:\workspaces\libs\sdl_1.2.15\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 d:\workspaces\libs\sdl_1.2.15\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 d:\workspaces\libs\sdl_1.2.15\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 d:\workspaces\libs\sdl_1.2.15\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325738640 d:\workspaces\libs\sdl_1.2.15\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 d:\workspaces\libs\sdl_1.2.15\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 d:\workspaces\libs\sdl_1.2.15\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1327078294 d:\workspaces\libs\sdl_1.2.15\include\sdl_image\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1584319049 d:\workspaces\workgit-h\spaceshooter2d-enginetest\spaceshooter2d-reloaded2\globalengine.h
+	<string>
+	<map>
+	<stack>
+	<vector>
+	<utility>
+
+1584319049 d:\workspaces\workgit-h\spaceshooter2d-enginetest\spaceshooter2d-reloaded2\logengine.h
+	"Stdafx.h"
+
+1584319049 d:\workspaces\workgit-h\spaceshooter2d-enginetest\spaceshooter2d-reloaded2\rendermanager.h
+	"Stdafx.h"
+	"Manager.h"
+
+1584319049 d:\workspaces\workgit-h\spaceshooter2d-enginetest\spaceshooter2d-reloaded2\manager.h
+	"Stdafx.h"
+
+1584319049 source:d:\workspaces\workgit-h\spaceshooter2d-enginetest\spaceshooter2d-reloaded2\configfileengine.cpp
+	"ConfigFileEngine.h"
+
+1584319049 d:\workspaces\workgit-h\spaceshooter2d-enginetest\spaceshooter2d-reloaded2\configfileengine.h
+	<string>
+	<map>
+	<iostream>
+	<fstream>
+	<sstream>
+
+1584319049 source:d:\workspaces\workgit-h\spaceshooter2d-enginetest\spaceshooter2d-reloaded2\globalengine.cpp
+	"GlobalEngine.h"
+
+1584319049 source:d:\workspaces\workgit-h\spaceshooter2d-enginetest\spaceshooter2d-reloaded2\image.cpp
+	"Image.h"
+
+1584319049 d:\workspaces\workgit-h\spaceshooter2d-enginetest\spaceshooter2d-reloaded2\image.h
+	"Stdafx.h"
+
+1584319049 source:d:\workspaces\workgit-h\spaceshooter2d-enginetest\spaceshooter2d-reloaded2\imagefactorymanager.cpp
+	"ImageFactoryManager.h"
+
+1584319049 d:\workspaces\workgit-h\spaceshooter2d-enginetest\spaceshooter2d-reloaded2\imagefactorymanager.h
+	"Stdafx.h"
+	"Image.h"
+
+1584319049 source:d:\workspaces\workgit-h\spaceshooter2d-enginetest\spaceshooter2d-reloaded2\initengine.cpp
+	"InitEngine.h"
+
+1584319049 d:\workspaces\workgit-h\spaceshooter2d-enginetest\spaceshooter2d-reloaded2\initengine.h
+	"Stdafx.h"
+	"ConfigFileEngine.h"
+
+1584319049 source:d:\workspaces\workgit-h\spaceshooter2d-enginetest\spaceshooter2d-reloaded2\initparamengine.cpp
+	"InitParamEngine.h"
+
+1584319049 d:\workspaces\workgit-h\spaceshooter2d-enginetest\spaceshooter2d-reloaded2\initparamengine.h
+	"Stdafx.h"
+
+1584319049 source:d:\workspaces\workgit-h\spaceshooter2d-enginetest\spaceshooter2d-reloaded2\level.cpp
+	"Level.h"
+
+1584319049 d:\workspaces\workgit-h\spaceshooter2d-enginetest\spaceshooter2d-reloaded2\level.h
+	"Stdafx.h"
+	"Steps.h"
+
+1584319049 d:\workspaces\workgit-h\spaceshooter2d-enginetest\spaceshooter2d-reloaded2\steps.h
+	"Stdafx.h"
+
+1584319049 source:d:\workspaces\workgit-h\spaceshooter2d-enginetest\spaceshooter2d-reloaded2\levelfactorymanager.cpp
+	"LevelFactoryManager.h"
+
+1584319049 d:\workspaces\workgit-h\spaceshooter2d-enginetest\spaceshooter2d-reloaded2\levelfactorymanager.h
+	"Stdafx.h"
+	"RenderManager.h"
+	"ClockEngine.h"
+	"VideoManager.h"
+	"Level.h"
+
+1584319049 d:\workspaces\workgit-h\spaceshooter2d-enginetest\spaceshooter2d-reloaded2\videomanager.h
+	"Stdafx.h"
+	"NativeEngine.h"
+
+1584319049 d:\workspaces\workgit-h\spaceshooter2d-enginetest\spaceshooter2d-reloaded2\nativeengine.h
+	"Stdafx.h"
+	"NativeWin32Engine.h"
+
+1584319049 d:\workspaces\workgit-h\spaceshooter2d-enginetest\spaceshooter2d-reloaded2\nativewin32engine.h
+	"Stdafx.h"
+
+1584319049 source:d:\workspaces\workgit-h\spaceshooter2d-enginetest\spaceshooter2d-reloaded2\logengine.cpp
+	"LogEngine.h"
+
+1584319049 source:d:\workspaces\workgit-h\spaceshooter2d-enginetest\spaceshooter2d-reloaded2\main.cpp
+	"Main.h"
+
+1584319049 d:\workspaces\workgit-h\spaceshooter2d-enginetest\spaceshooter2d-reloaded2\main.h
+	"Stdafx.h"
+	"InitParamEngine.h"
+	"InitEngine.h"
+	"VideoManager.h"
+	"ImageFactoryManager.h"
+	"LevelFactoryManager.h"
+	"RenderManager.h"
+	"Image.h"
+	"ClockEngine.h"
+
+1584319049 source:d:\workspaces\workgit-h\spaceshooter2d-enginetest\spaceshooter2d-reloaded2\nativewin32engine.cpp
+	"NativeWin32Engine.h"
+
+1584319049 source:d:\workspaces\workgit-h\spaceshooter2d-enginetest\spaceshooter2d-reloaded2\rendermanager.cpp
+	"RenderManager.h"
+
+1584319049 source:d:\workspaces\workgit-h\spaceshooter2d-enginetest\spaceshooter2d-reloaded2\resource.rc
+
+1584364168 source:d:\workspaces\workgit-h\spaceshooter2d-enginetest\spaceshooter2d-reloaded2\videomanager.cpp
+	"VideoManager.h"
+
